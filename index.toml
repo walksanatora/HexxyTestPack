@@ -101,11 +101,6 @@ file = "mods/hexxy-dimensions-1.2.1.jar"
 hash = "7156231ec906838c69fef79f46b32e00af05a8616ac389e204503c113f64fbe0"
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "1fb4e39c01881ff091d0358fb28f3817b86729e9e10a61a5b0160659c1b8768d"
 metafile = true
@@ -217,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "b9eb5237b412cdae4005301af44f6b2298cb3b6f53cfd93456cf9c7833ad6a4b"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
