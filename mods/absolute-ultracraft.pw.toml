@@ -1,0 +1,13 @@
+name = "ULTRACRAFT"
+filename = "ultracraft-1.20.1-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JGAiUYbt/versions/FXap1lpQ/ultracraft-1.20.1-2.0.4.jar"
+hash-format = "sha1"
+hash = "3de6af8d3e5dac3de130347b61713d477194ac3c"
+
+[update]
+[update.modrinth]
+mod-id = "JGAiUYbt"
+version = "FXap1lpQ"
