@@ -106,6 +106,11 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "1fb4e39c01881ff091d0358fb28f3817b86729e9e10a61a5b0160659c1b8768d"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
 metafile = true
@@ -121,6 +126,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "6332607e5399b318c9b39b14a9c6e36428cd52dd96b65f592fff9eb15117fc3f"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "8f8650f906d35b4c6d7fb0040ae55fcfcfe51788d991bde0ea8415b66acabf29"
 metafile = true
@@ -133,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "eaabffb04f7d8b06c4a8470a144540c7a754bcadf460e783b1d5774ad941fbf6"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "7b2f178be51b01b0ce78c3f8e1d9f4c3da9b447726fb6b5acefeae4a4900e0cf"
 metafile = true
 
 [[files]]
@@ -220,6 +235,11 @@ hash = "26273936112df19b57cec0c08097e2d865abddd4264a18de2a4dcd4f135bf19b"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "70de617c45937f523b14205f03c42d86c0dcbfa02032d5a49e650816c14bdcc0"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
@@ -232,4 +252,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "110c0e172f2719b6efb982c91e34f112e67fa2876feb62a5a21b854ba4ad8917"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "b94e3b9a06b0fdd1c40d68d1cfa3b8eca67d17c30ae35c0e4a81555950a20fc3"
 metafile = true
