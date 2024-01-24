@@ -245,6 +245,11 @@ hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "d7d0855a260bdad210b3ec58246ff5686ba4e12d03c441dd67653bea4c2e309b"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "122d6ebd6ee7942e10f825b7611e63a5898189e4631bacadd8565a69892a4b93"
 metafile = true
