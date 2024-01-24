@@ -1,0 +1,13 @@
+name = "SwitchCraft Peripherals"
+filename = "sc-peripherals-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OvQeJciX/versions/H21ov78q/sc-peripherals-1.7.2.jar"
+hash-format = "sha1"
+hash = "18eef9c6363f609ce8def84ce4726472c28d5493"
+
+[update]
+[update.modrinth]
+mod-id = "OvQeJciX"
+version = "H21ov78q"

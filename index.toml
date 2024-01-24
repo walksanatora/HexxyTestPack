@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/jekyll-gh-pages.yml"
-hash = "88dcb165c00a911a31a769dd38cfa08fe82450239acba5f36c4978de79985660"
-
-[[files]]
 file = "config/plethora.hocon"
 hash = "0d6db9e313618e28354c6229918f5d766d4345d17b2061d166829dec83a979ac"
 
@@ -49,6 +45,11 @@ hash = "cc8e6e730c92b194d1fc56c51809a62be7c1719f601a002ac32e6f6fae12dcec"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "94e4884521c256740df7adbdaacb385a30262c0bc711e3af502dd42906a06f5d"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "f28b7f16e0b89f86a625691db438fd69c1029f0fa1aea46bd415036a423a2880"
 metafile = true
@@ -90,6 +91,11 @@ hash = "8f8650f906d35b4c6d7fb0040ae55fcfcfe51788d991bde0ea8415b66acabf29"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "eaabffb04f7d8b06c4a8470a144540c7a754bcadf460e783b1d5774ad941fbf6"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas-fabric-1.20.1-0.1.0-4.jar"
 hash = "f580b94fac3909facf1f6887ecd7d87ada85a6fc2296917b394fa553968c381a"
 
@@ -114,6 +120,11 @@ hash = "fee90eeefee1adbfce509b44bad47ac2e82c7571ffb69e2fadc36366bbe079ac"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "f44c2e138b41270813fc1a1f1516ef44018f6ccfe83828deab77a196f746f5ae"
+metafile = true
+
+[[files]]
 file = "mods/plethora-peripherals.pw.toml"
 hash = "2805314ddf363a93f5806c9fdf0d74c7ff1232859741e2b8ac666a91b2d9111d"
 metafile = true
@@ -126,6 +137,21 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "baac04be6dfec29d210c53eadddb7f6f0be051ddcf36300c0ce718fc9680a399"
+metafile = true
+
+[[files]]
+file = "mods/sc-peripherals.pw.toml"
+hash = "5ee4d78508bf6072054ebbf8bd11c61885c46aa199635059da0ac1dc64fc8785"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "26273936112df19b57cec0c08097e2d865abddd4264a18de2a4dcd4f135bf19b"
 metafile = true
 
 [[files]]
