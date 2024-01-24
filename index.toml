@@ -1,0 +1,120 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/plethora.hocon"
+hash = "0d6db9e313618e28354c6229918f5d766d4345d17b2061d166829dec83a979ac"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "bcaceffce281382be8a9a6fe5215f79e3edf5b5968eac57bd62162172b4d7616"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "ad0b1c92bf3db21f58b6c609e2da6cd303afedda9973000456e7e3886f906e89"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "cc8e6e730c92b194d1fc56c51809a62be7c1719f601a002ac32e6f6fae12dcec"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f28b7f16e0b89f86a625691db438fd69c1029f0fa1aea46bd415036a423a2880"
+metafile = true
+
+[[files]]
+file = "mods/hexal-fabric-1.20.1-0.3.0-2.jar"
+hash = "4ceaab499c4335a41ac142801c3321c12f3dee580eaa80886afcd6d37cac7079"
+
+[[files]]
+file = "mods/hexbound-0.2.0+1.20.1+bc2.jar"
+hash = "2540f6341988e5a1990838fbdaafd510b4ca8ff0b681ac6c71b346717381c333"
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "187aca985ac33e3aa6064d30341f18f3e7a3ff98a7d88bae256b07a85632fadf"
+metafile = true
+
+[[files]]
+file = "mods/hextweaks-1.0.0.jar"
+hash = "e3bcf8347daeca0ee10eac16d25b293a836366b3ee9f6c26382b007be7a7e99e"
+
+[[files]]
+file = "mods/hexxy-dimensions-1.2.1.jar"
+hash = "7156231ec906838c69fef79f46b32e00af05a8616ac389e204503c113f64fbe0"
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
+metafile = true
+
+[[files]]
+file = "mods/kettle.pw.toml"
+hash = "734cffbfe5158d1db73132eace629e39c4c61840679a620ce287e121ca52c245"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "8f8650f906d35b4c6d7fb0040ae55fcfcfe51788d991bde0ea8415b66acabf29"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas-fabric-1.20.1-0.1.0-4.jar"
+hash = "f580b94fac3909facf1f6887ecd7d87ada85a6fc2296917b394fa553968c381a"
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/packwiz-server-updater.pw.toml"
+hash = "d013302f28b40676734df3b6fed35c1e0748c3452ed26508343a6d9656533ff1"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "fee90eeefee1adbfce509b44bad47ac2e82c7571ffb69e2fadc36366bbe079ac"
+metafile = true
+
+[[files]]
+file = "mods/plethora-peripherals.pw.toml"
+hash = "2805314ddf363a93f5806c9fdf0d74c7ff1232859741e2b8ac666a91b2d9111d"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
