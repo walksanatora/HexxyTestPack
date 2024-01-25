@@ -80,6 +80,11 @@ hash = "f28b7f16e0b89f86a625691db438fd69c1029f0fa1aea46bd415036a423a2880"
 metafile = true
 
 [[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
+metafile = true
+
+[[files]]
 file = "mods/hexal-fabric-1.20.1-0.3.0-2.jar"
 hash = "4ceaab499c4335a41ac142801c3321c12f3dee580eaa80886afcd6d37cac7079"
 
@@ -157,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "f021bc3633c4730b9e487c8e4cb566e438c3c90722e89f52ca28e72c2eb5a6d5"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
@@ -253,3 +263,7 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "b94e3b9a06b0fdd1c40d68d1cfa3b8eca67d17c30ae35c0e4a81555950a20fc3"
 metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "867e0e39c91aa976cb7cde8647f15bb31aff3baccdac7e6f3d16a244395355e1"
