@@ -240,6 +240,11 @@ hash = "70de617c45937f523b14205f03c42d86c0dcbfa02032d5a49e650816c14bdcc0"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
@@ -247,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
 hash = "d7d0855a260bdad210b3ec58246ff5686ba4e12d03c441dd67653bea4c2e309b"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "1e7c52e8200d178f66c84026d54dccf0fe75f862b725088325672049c336caca"
 metafile = true
 
 [[files]]
