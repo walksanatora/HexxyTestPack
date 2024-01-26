@@ -1,7 +1,12 @@
 name = "Inventory Profiles Next"
 filename = "InventoryProfilesNext-fabric-1.20-1.10.9.jar"
 side = "client"
-optional = true
+option = true
+
+[option]
+optional=true
+default=true
+description="allows you hold shift when dragging your mouse along side other inventory tweaks"
 
 [download]
 url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/MYaRwBOZ/InventoryProfilesNext-fabric-1.20-1.10.9.jar"

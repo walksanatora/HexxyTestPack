@@ -1,7 +1,11 @@
 name = "Distant Horizons"
 filename = "DistantHorizons-2.0.1-a-1.20.1.jar"
 side = "client"
+
+[option]
 optional=true
+default=false
+description="allows you to see further"
 
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-2.0.1-a-1.20.1.jar"

@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "3d1d95789207692ed01c1868dd12771c53aa2bba181a1db269cdc1d8d2dfc69f"
+hash = "3f2ba4e458ea519a43e1c02f621c9f3e625dcb439353e5768a622bbfd515e278"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ hash = "7156231ec906838c69fef79f46b32e00af05a8616ac389e204503c113f64fbe0"
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "1fb4e39c01881ff091d0358fb28f3817b86729e9e10a61a5b0160659c1b8768d"
+hash = "d6b39053250914fb29eaa01dffd4e4dfe1609a2c8cdeb30949a97e130d35870e"
 metafile = true
 
 [[files]]
