@@ -126,6 +126,11 @@ hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "3e1a381807b8bfe1abb6be6b043b64d9426097bb4ea16c6aa956f6a151f5c72e"
+metafile = true
+
+[[files]]
 file = "mods/kettle.pw.toml"
 hash = "734cffbfe5158d1db73132eace629e39c4c61840679a620ce287e121ca52c245"
 metafile = true
