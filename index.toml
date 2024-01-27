@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Quark-4.0-beta-430.3234.jar"
+hash = "57a9a8dba5a189ed805e658c6d0dd78d840168ee07a33f1eb1f15a4a981eebdf"
+
+[[files]]
+file = "QuarkOddities-1.20.1.jar"
+hash = "230af45e645ebe36f621d0b4362afed6ad0faf940129f4363aaba8058f245576"
+
+[[files]]
+file = "Zeta-1.0-beta-3.jar"
+hash = "d76e0a34f7419798af01fd883f6bf4bd4b377300a2d11f3f5336e52817dea993"
+
+[[files]]
 file = "config/plethora.hocon"
 hash = "0d6db9e313618e28354c6229918f5d766d4345d17b2061d166829dec83a979ac"
 
@@ -12,6 +24,16 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/argonauts.pw.toml"
+hash = "aacb6f8a1753509d95062cc093bf741c0106502784a220de8bb02c0b9484b390"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "077e5afb0765a9a9e1076c0c070d89e0cee524d1a3f0c54024ef6211419f95d4"
 metafile = true
 
 [[files]]
@@ -200,6 +222,11 @@ hash = "2805314ddf363a93f5806c9fdf0d74c7ff1232859741e2b8ac666a91b2d9111d"
 metafile = true
 
 [[files]]
+file = "mods/prometheus.pw.toml"
+hash = "92e5733b54b55263c13f068f8012255942caf7079ab62078c13de15598947c37"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
@@ -207,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "8ac138bcb2e461b627f0dd7c681a07ac8396e65f8211c37e639acb4fed86754b"
 metafile = true
 
 [[files]]
