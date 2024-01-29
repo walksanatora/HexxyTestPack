@@ -15,16 +15,6 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
-file = "mods/argonauts.pw.toml"
-hash = "ab0441d775e3b05322054b5f2b729cab0e35ed24df194677c83783c0138d70b6"
-metafile = true
-
-[[files]]
-file = "mods/cadmus.pw.toml"
-hash = "b459ffb989182fa485606d648e19aeed132f9227b0128dfc3b0946f1adc45160"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
@@ -37,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "bcaceffce281382be8a9a6fe5215f79e3edf5b5968eac57bd62162172b4d7616"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "c0a9f74591d0a2ea22da7775d167c00c877959a69d6ef51d6f78ce52d4c896ae"
 metafile = true
 
 [[files]]
@@ -235,11 +230,6 @@ hash = "2805314ddf363a93f5806c9fdf0d74c7ff1232859741e2b8ac666a91b2d9111d"
 metafile = true
 
 [[files]]
-file = "mods/prometheus.pw.toml"
-hash = "673006493debf44025fb363fd2463f949d0b3ffa10f4b9147e28cd08ba6848e9"
-metafile = true
-
-[[files]]
 file = "mods/qkl.pw.toml"
 hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
@@ -287,6 +277,16 @@ metafile = true
 [[files]]
 file = "mods/spectrum.pw.toml"
 hash = "26273936112df19b57cec0c08097e2d865abddd4264a18de2a4dcd4f135bf19b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "1c016f800988efb78998ad081203e9789f720d9ae81826fd8c191eecdcc15ad3"
 metafile = true
 
 [[files]]
