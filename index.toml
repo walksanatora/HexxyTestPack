@@ -16,12 +16,12 @@ metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
-hash = "aacb6f8a1753509d95062cc093bf741c0106502784a220de8bb02c0b9484b390"
+hash = "ab0441d775e3b05322054b5f2b729cab0e35ed24df194677c83783c0138d70b6"
 metafile = true
 
 [[files]]
 file = "mods/cadmus.pw.toml"
-hash = "077e5afb0765a9a9e1076c0c070d89e0cee524d1a3f0c54024ef6211419f95d4"
+hash = "b459ffb989182fa485606d648e19aeed132f9227b0128dfc3b0946f1adc45160"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/prometheus.pw.toml"
-hash = "92e5733b54b55263c13f068f8012255942caf7079ab62078c13de15598947c37"
+hash = "673006493debf44025fb363fd2463f949d0b3ffa10f4b9147e28cd08ba6848e9"
 metafile = true
 
 [[files]]

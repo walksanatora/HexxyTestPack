@@ -1,6 +1,6 @@
 name = "Cadmus"
 filename = "cadmus-fabric-1.20.1-1.0.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fEWKxVzh/versions/P8apXAz5/cadmus-fabric-1.20.1-1.0.5.jar"

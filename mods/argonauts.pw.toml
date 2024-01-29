@@ -1,6 +1,6 @@
 name = "Argonauts"
 filename = "argonauts-fabric-1.20.1-1.0.7.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bb2EpKpx/versions/Rka22SAY/argonauts-fabric-1.20.1-1.0.7.jar"
