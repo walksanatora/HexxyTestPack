@@ -30,6 +30,11 @@ hash = "bcaceffce281382be8a9a6fe5215f79e3edf5b5968eac57bd62162172b4d7616"
 metafile = true
 
 [[files]]
+file = "mods/chest-tracker.pw.toml"
+hash = "2bbc76335047a3ba583afd60ad53b33855454df8dfddf488e7132ccfba32e148"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "c0a9f74591d0a2ea22da7775d167c00c877959a69d6ef51d6f78ce52d4c896ae"
 metafile = true
@@ -205,6 +210,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/packages.pw.toml"
+hash = "21fde8b12697f1a58de50f5b0c6c1db0df16c3c1c8f3240f5e4bf46744f1927f"
+metafile = true
+
+[[files]]
 file = "mods/packwiz-server-updater.pw.toml"
 hash = "d013302f28b40676734df3b6fed35c1e0748c3452ed26508343a6d9656533ff1"
 metafile = true
@@ -317,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "43400408adfa0ffbfe1c6830265ab3e21f8ff81b32d9e6b1c8831a53ce3447da"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-map-chest-tracker-integration.pw.toml"
+hash = "d2e4f9b46b78fbb5939ecea89a5104b6291809732b5d01ac39b0efdb0dfaabb6"
 metafile = true
 
 [[files]]
