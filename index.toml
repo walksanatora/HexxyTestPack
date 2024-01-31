@@ -80,6 +80,11 @@ hash = "ad0b1c92bf3db21f58b6c609e2da6cd303afedda9973000456e7e3886f906e89"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "24d0280548982225903b9ff97b97924f535db1e6a4e76947b9da70618926d857"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
 metafile = true
@@ -107,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "94e4884521c256740df7adbdaacb385a30262c0bc711e3af502dd42906a06f5d"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
@@ -247,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
 hash = "2805314ddf363a93f5806c9fdf0d74c7ff1232859741e2b8ac666a91b2d9111d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "3212f0db507b4091d07c75c88254f7aec18e96a27f648f76234cb7951a19ffca"
 metafile = true
 
 [[files]]
