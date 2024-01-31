@@ -70,6 +70,11 @@ hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "3f2ba4e458ea519a43e1c02f621c9f3e625dcb439353e5768a622bbfd515e278"
 metafile = true
@@ -102,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "10564bf0380d7f6558a962c1cf3f6c63a319c07020321b139ba7e55cc82cfa60"
 metafile = true
 
 [[files]]
