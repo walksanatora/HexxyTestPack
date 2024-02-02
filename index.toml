@@ -65,11 +65,6 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "8fafe031d6b7bcbd6b01665842e1e68d64b6a7dbbd6477c0557e77a88d729c40"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
 metafile = true
