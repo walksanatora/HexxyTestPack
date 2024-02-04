@@ -326,6 +326,11 @@ hash = "3bb4f2b66a4cf607556e88894978100e7c1d58effe96b7df7d7e21118043d807"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "4ddabe0943463aed08fcfe20880a525cc722ca8689692d5403e2c34c2c13b2d3"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
@@ -382,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "af8a83655e6c01ad4b4116696642e36fe330fe3505f1e4c1c1c915d800aaa51a"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "5d0318f87bd8a9546d9c56e2c9bd7ab2b04d9c2be0654783e61f058b995b99ad"
 metafile = true
 
 [[files]]
