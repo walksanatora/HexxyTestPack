@@ -125,6 +125,16 @@ hash = "10564bf0380d7f6558a962c1cf3f6c63a319c07020321b139ba7e55cc82cfa60"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+metafile = true
+
+[[files]]
 file = "mods/faux-custom-entity-data.pw.toml"
 hash = "a4da8bc46ad51d30597bd2235add659f0ee49123a7140487de7d127659a87e4b"
 metafile = true
@@ -157,10 +167,6 @@ metafile = true
 [[files]]
 file = "mods/hexal-fabric-1.20.1-0.3.0-2.jar"
 hash = "4ceaab499c4335a41ac142801c3321c12f3dee580eaa80886afcd6d37cac7079"
-
-[[files]]
-file = "mods/hexbound-0.2.0+1.20.1+bc2.jar"
-hash = "2540f6341988e5a1990838fbdaafd510b4ca8ff0b681ac6c71b346717381c333"
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
@@ -290,16 +296,6 @@ hash = "3212f0db507b4091d07c75c88254f7aec18e96a27f648f76234cb7951a19ffca"
 metafile = true
 
 [[files]]
-file = "mods/qkl.pw.toml"
-hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "8ac138bcb2e461b627f0dd7c681a07ac8396e65f8211c37e639acb4fed86754b"
 metafile = true
@@ -336,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "26273936112df19b57cec0c08097e2d865abddd4264a18de2a4dcd4f135bf19b"
+hash = "3b3a6780cd086ba29b46e3d70f20bc8e9f804cf9a43a78a7dde38e892f93332c"
 metafile = true
 
 [[files]]
