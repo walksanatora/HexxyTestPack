@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
-hash = "2805314ddf363a93f5806c9fdf0d74c7ff1232859741e2b8ac666a91b2d9111d"
+hash = "a29c8f273dfa3929fe2c51cc474f95357f6aa9eb0cdb715cee637e3a577904d9"
 metafile = true
 
 [[files]]
