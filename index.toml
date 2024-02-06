@@ -291,6 +291,10 @@ hash = "f44c2e138b41270813fc1a1f1516ef44018f6ccfe83828deab77a196f746f5ae"
 metafile = true
 
 [[files]]
+file = "mods/phonos-1.0.0-beta.11+1.20.1.jar"
+hash = "3da39c503bdfc22aa88f550f6713f21df745d10bef2f1b7574f6c78ce3c7e408"
+
+[[files]]
 file = "mods/plethora-peripherals.pw.toml"
 hash = "a29c8f273dfa3929fe2c51cc474f95357f6aa9eb0cdb715cee637e3a577904d9"
 metafile = true
