@@ -237,6 +237,11 @@ hash = "6332607e5399b318c9b39b14a9c6e36428cd52dd96b65f592fff9eb15117fc3f"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "fd1b685219022148a51b5834f9c424a148025ef673ce50c935c2388e08d0040a"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "8f8650f906d35b4c6d7fb0040ae55fcfcfe51788d991bde0ea8415b66acabf29"
 metafile = true
@@ -461,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "fade244d31c2deeb9ea1b3f698e56595b894f3ea7df3734463ee627d31860d79"
+metafile = true
+
+[[files]]
+file = "mods/yescheat.pw.toml"
+hash = "8daf74349276c867e0c0fc4617f97d40484182d242529dec5753a5d68226ba75"
 metafile = true
 
 [[files]]
