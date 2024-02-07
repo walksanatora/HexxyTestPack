@@ -185,11 +185,6 @@ hash = "f28b7f16e0b89f86a625691db438fd69c1029f0fa1aea46bd415036a423a2880"
 metafile = true
 
 [[files]]
-file = "mods/gotta-go-fast-fabric.pw.toml"
-hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
-metafile = true
-
-[[files]]
 file = "mods/hexal-fabric-1.20.1-0.3.0-2.jar"
 hash = "2d34de5762d594a6da9522b0148d0990a268e5e4521554994ea7d69c68ab4cf4"
 
