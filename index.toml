@@ -10,8 +10,18 @@ hash = "069ec3e4f61bcf4943fe690978f161176bbdf6fca2113f7a7fa23ac6c9db109e"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/armourers-workshop.pw.toml"
+hash = "27ea2399e99192de97695ab790a8a8ed85afb42d56600672f03e016757d9611d"
 metafile = true
 
 [[files]]
@@ -90,6 +100,11 @@ hash = "3f2ba4e458ea519a43e1c02f621c9f3e625dcb439353e5768a622bbfd515e278"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "75f838bc322e1d9acb4266c97fd40458b355dbfee54180e65a41e999913078a2"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "ad0b1c92bf3db21f58b6c609e2da6cd303afedda9973000456e7e3886f906e89"
 metafile = true
@@ -97,6 +112,16 @@ metafile = true
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "24d0280548982225903b9ff97b97924f535db1e6a4e76947b9da70618926d857"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "03cdf4c69f8a80171e7a3998238550cc7f3bf7f321e179cdcd63f00ec481fd20"
 metafile = true
 
 [[files]]
@@ -320,6 +345,11 @@ hash = "baac04be6dfec29d210c53eadddb7f6f0be051ddcf36300c0ce718fc9680a399"
 metafile = true
 
 [[files]]
+file = "mods/sandwichable.pw.toml"
+hash = "f940a85f7fce47ee3228e10dfde0c7a818d5464337bb8ba0b7074b421975e359"
+metafile = true
+
+[[files]]
 file = "mods/sc-peripherals.pw.toml"
 hash = "5ee4d78508bf6072054ebbf8bd11c61885c46aa199635059da0ac1dc64fc8785"
 metafile = true
@@ -426,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "110c0e172f2719b6efb982c91e34f112e67fa2876feb62a5a21b854ba4ad8917"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "fade244d31c2deeb9ea1b3f698e56595b894f3ea7df3734463ee627d31860d79"
 metafile = true
 
 [[files]]
