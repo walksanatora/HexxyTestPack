@@ -80,6 +80,11 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "8fafe031d6b7bcbd6b01665842e1e68d64b6a7dbbd6477c0557e77a88d729c40"
 metafile = true
@@ -441,6 +446,11 @@ metafile = true
 [[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "5d0318f87bd8a9546d9c56e2c9bd7ab2b04d9c2be0654783e61f058b995b99ad"
+metafile = true
+
+[[files]]
+file = "mods/wearthat.pw.toml"
+hash = "3444df423ca287ea5b4be65d8696454ae410e030e918174d7102c22c9f29d25b"
 metafile = true
 
 [[files]]
