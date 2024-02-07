@@ -166,16 +166,16 @@ metafile = true
 
 [[files]]
 file = "mods/hexal-fabric-1.20.1-0.3.0-2.jar"
-hash = "4ceaab499c4335a41ac142801c3321c12f3dee580eaa80886afcd6d37cac7079"
+hash = "2d34de5762d594a6da9522b0148d0990a268e5e4521554994ea7d69c68ab4cf4"
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "974f4c67755d0bfa8eae976146702bf1c7fb88066c4d8e44eb7320be80aa48b5"
+hash = "dbc90ae9fc5b12defbd0800b4c7ed4cf5f585966cf3ee990467f4a2cdc99d901"
 metafile = true
 
 [[files]]
 file = "mods/hextweaks-1.0.0.jar"
-hash = "e48d416a13dc1cf0cc8a48f313a1ea81a3b1a25e744d2ca2520784a7f1f95581"
+hash = "029d0e047de0ea396d89a5d69befe2a23a0809646cd35bbaf719a4c228dd2af3"
 
 [[files]]
 file = "mods/hexxy-dimensions-1.2.1.jar"
