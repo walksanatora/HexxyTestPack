@@ -301,6 +301,11 @@ hash = "21fde8b12697f1a58de50f5b0c6c1db0df16c3c1c8f3240f5e4bf46744f1927f"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "380dc01ccca1dd5f5acc54845b21ac1533bfcb048ca62b357b9b89eb10dbb07d"
+metafile = true
+
+[[files]]
 file = "mods/packwiz-server-updater.pw.toml"
 hash = "d013302f28b40676734df3b6fed35c1e0748c3452ed26508343a6d9656533ff1"
 metafile = true
