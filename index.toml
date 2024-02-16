@@ -170,6 +170,11 @@ hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
+file = "mods/fabrication.pw.toml"
+hash = "fc0e8c398941ba7e24e649fee05edadf64f21f686fa6b3ce557c5cd3002b6d72"
+metafile = true
+
+[[files]]
 file = "mods/faux-custom-entity-data.pw.toml"
 hash = "a4da8bc46ad51d30597bd2235add659f0ee49123a7140487de7d127659a87e4b"
 metafile = true

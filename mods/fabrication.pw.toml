@@ -1,0 +1,7 @@
+name = "fabrication"
+filename = "fabrication-3.4.10+1.20.jar"
+
+[download]
+url = "https://github.com/FalsehoodMC/Fabrication/releases/download/v3.4.10/fabrication-3.4.10+1.20.jar"
+hash-format = "sha256"
+hash = "0187408ded7f93d90d759f0e4253bf66f1253ea968cfe4bfb0784248d6a62d05"
