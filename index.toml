@@ -489,11 +489,6 @@ hash = "fade244d31c2deeb9ea1b3f698e56595b894f3ea7df3734463ee627d31860d79"
 metafile = true
 
 [[files]]
-file = "mods/yescheat.pw.toml"
-hash = "8daf74349276c867e0c0fc4617f97d40484182d242529dec5753a5d68226ba75"
-metafile = true
-
-[[files]]
 file = "mods/yigd.pw.toml"
 hash = "b94e3b9a06b0fdd1c40d68d1cfa3b8eca67d17c30ae35c0e4a81555950a20fc3"
 metafile = true
