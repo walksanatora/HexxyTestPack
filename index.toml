@@ -105,6 +105,11 @@ hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "205ab6a8e776226ba839f3c03a80743dc7e963f0b91477c831e98e9b806f91ab"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "3f2ba4e458ea519a43e1c02f621c9f3e625dcb439353e5768a622bbfd515e278"
 metafile = true
@@ -249,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/libjf.pw.toml"
 hash = "fd1b685219022148a51b5834f9c424a148025ef673ce50c935c2388e08d0040a"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "72c839b56bc67ce57739e232480a07a9f083b9888d292d37e9e2385795bd7566"
 metafile = true
 
 [[files]]
