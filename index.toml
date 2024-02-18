@@ -180,6 +180,11 @@ hash = "fc0e8c398941ba7e24e649fee05edadf64f21f686fa6b3ce557c5cd3002b6d72"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+metafile = true
+
+[[files]]
 file = "mods/faux-custom-entity-data.pw.toml"
 hash = "a4da8bc46ad51d30597bd2235add659f0ee49123a7140487de7d127659a87e4b"
 metafile = true
