@@ -262,11 +262,6 @@ hash = "fd1b685219022148a51b5834f9c424a148025ef673ce50c935c2388e08d0040a"
 metafile = true
 
 [[files]]
-file = "mods/login-protection.pw.toml"
-hash = "72c839b56bc67ce57739e232480a07a9f083b9888d292d37e9e2385795bd7566"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "8f8650f906d35b4c6d7fb0040ae55fcfcfe51788d991bde0ea8415b66acabf29"
 metafile = true
