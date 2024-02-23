@@ -105,6 +105,11 @@ hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "205ab6a8e776226ba839f3c03a80743dc7e963f0b91477c831e98e9b806f91ab"
 metafile = true
