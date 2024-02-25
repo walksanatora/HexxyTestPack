@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexal-fabric-1.20.1-0.3.0-2.jar"
-hash = "2d34de5762d594a6da9522b0148d0990a268e5e4521554994ea7d69c68ab4cf4"
+hash = "934a3dbd3118f5982527dff8735aa93b3a9a4ebe8cd5f575fd6e570d84af0e33"
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
