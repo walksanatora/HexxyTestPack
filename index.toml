@@ -420,11 +420,6 @@ hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
-file = "mods/spectral-utilities.pw.toml"
-hash = "ed5b4a5bd389bf1603772f74d04a154aedc53384fa890b0cd68c37bfd122ed0a"
-metafile = true
-
-[[files]]
 file = "mods/spectrum.pw.toml"
 hash = "4dcfed0216f0935074ecbe40eae9163ad3ffd33938e40654cd9f686269e2ca62"
 metafile = true
