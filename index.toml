@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "5d0318f87bd8a9546d9c56e2c9bd7ab2b04d9c2be0654783e61f058b995b99ad"
+hash = "cb5b3f2ac7b2f850a13ef6b39f7a46dfd5207d3828e337f3129efa33cffb6713"
 metafile = true
 
 [[files]]
