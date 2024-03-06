@@ -415,6 +415,11 @@ hash = "5ee4d78508bf6072054ebbf8bd11c61885c46aa199635059da0ac1dc64fc8785"
 metafile = true
 
 [[files]]
+file = "mods/scriptor-magicae.pw.toml"
+hash = "d31374d6eac4eb842fca5a5aea68d90da9e6a6c919b8d480310dab32f9136721"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
