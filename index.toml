@@ -244,12 +244,12 @@ hash = "e85f9f90afb55c37497e82f36a30f497654097b4bda54540d461a91984bea542"
 metafile = true
 
 [[files]]
-file = "mods/hextweaks-1.0.0.jar"
-hash = "b4511026cf2da5c5d7ab9f2531fcbd75cf8aa059f64d4a5831aa23617f73fadf"
+file = "mods/hextweaks-4.0.0.jar"
+hash = "a6c4202965b43b86fea5a7d74ef50a7c30fec22bffd045688e5e5e883c3c4639"
 
 [[files]]
-file = "mods/hexxy-dimensions-1.2.1.jar"
-hash = "5a91f8a33fa04dd7a0aabf53b167a62647bd0950d4721163721f3d24580c7953"
+file = "mods/hexxy-dimensions-1.3.0.jar"
+hash = "118c3efb53e7cf1ac1ee86d729083da9f01ab5508d21f9a56372faf70f6fbb73"
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
