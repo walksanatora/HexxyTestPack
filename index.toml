@@ -80,6 +80,11 @@ hash = "c0a9f74591d0a2ea22da7775d167c00c877959a69d6ef51d6f78ce52d4c896ae"
 metafile = true
 
 [[files]]
+file = "mods/chunkumulator.pw.toml"
+hash = "da0136131367a12fc30d78e73e631ddf172a32f5f1021cf78dbf2fc9e804a3dd"
+metafile = true
+
+[[files]]
 file = "mods/clockwork.jar"
 hash = "44ddcd14dc32f12f4accf971944866245f687d76183a9db171888c00826ef628"
 
