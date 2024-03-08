@@ -80,6 +80,10 @@ hash = "c0a9f74591d0a2ea22da7775d167c00c877959a69d6ef51d6f78ce52d4c896ae"
 metafile = true
 
 [[files]]
+file = "mods/clockwork.jar"
+hash = "44ddcd14dc32f12f4accf971944866245f687d76183a9db171888c00826ef628"
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
@@ -250,6 +254,11 @@ hash = "a6c4202965b43b86fea5a7d74ef50a7c30fec22bffd045688e5e5e883c3c4639"
 [[files]]
 file = "mods/hexxy-dimensions-1.3.0.jar"
 hash = "118c3efb53e7cf1ac1ee86d729083da9f01ab5508d21f9a56372faf70f6fbb73"
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "a20cf291c44f7142838c921e303becd92c208adfb46386dbc96006ccd8d1b74d"
+metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
@@ -501,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/uwufied.pw.toml"
 hash = "b86b8eeb5bd448cb22d8005ef1a909b68e67ade61f93a9fa930c9efb86156909"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "fef15271292b69da6f3204b8e3663df1fed725f786fecfa00d0287c523ac8ed8"
 metafile = true
 
 [[files]]
