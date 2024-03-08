@@ -400,6 +400,11 @@ hash = "3212f0db507b4091d07c75c88254f7aec18e96a27f648f76234cb7951a19ffca"
 metafile = true
 
 [[files]]
+file = "mods/raknetify.pw.toml"
+hash = "02421594640b86ccd43e888d0413ade610b4a87bb5a2325cccdfda0a502c5b61"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "8ac138bcb2e461b627f0dd7c681a07ac8396e65f8211c37e639acb4fed86754b"
 metafile = true
