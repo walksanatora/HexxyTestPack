@@ -261,6 +261,11 @@ file = "mods/hexxy-dimensions-1.3.0.jar"
 hash = "118c3efb53e7cf1ac1ee86d729083da9f01ab5508d21f9a56372faf70f6fbb73"
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "db0bc674543cda857cee08b1164435fc659f796620747c0073e2415258b15406"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "2704ac777bf166ced4662347d685b9df4735e8741084a04522def938d249746e"
 metafile = true
@@ -451,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "4ddabe0943463aed08fcfe20880a525cc722ca8689692d5403e2c34c2c13b2d3"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "20dcd5da980450c1243e1ce4e8bb5c95030dc4d3f246be7c3dbfbbae1a45cec9"
 metafile = true
 
 [[files]]
