@@ -85,10 +85,6 @@ hash = "da0136131367a12fc30d78e73e631ddf172a32f5f1021cf78dbf2fc9e804a3dd"
 metafile = true
 
 [[files]]
-file = "mods/clockwork.jar"
-hash = "707fb834d077abf1d574f7e3bc13e9613c2c05d25c090759c7c4fe6a6727ac5b"
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
@@ -520,11 +516,6 @@ metafile = true
 [[files]]
 file = "mods/uwufied.pw.toml"
 hash = "b86b8eeb5bd448cb22d8005ef1a909b68e67ade61f93a9fa930c9efb86156909"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "fef15271292b69da6f3204b8e3663df1fed725f786fecfa00d0287c523ac8ed8"
 metafile = true
 
 [[files]]
