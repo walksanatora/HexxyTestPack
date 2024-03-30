@@ -396,7 +396,7 @@ hash = "3da39c503bdfc22aa88f550f6713f21df745d10bef2f1b7574f6c78ce3c7e408"
 
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
-hash = "9a86ae6feaaa25194d19804fec3a2a59f2195106920546f144fd0a0264159ddc"
+hash = "a29c8f273dfa3929fe2c51cc474f95357f6aa9eb0cdb715cee637e3a577904d9"
 metafile = true
 
 [[files]]
