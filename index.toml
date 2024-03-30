@@ -6,7 +6,7 @@ hash = "0d6db9e313618e28354c6229918f5d766d4345d17b2061d166829dec83a979ac"
 
 [[files]]
 file = "mods/absolute-ultracraft.pw.toml"
-hash = "069ec3e4f61bcf4943fe690978f161176bbdf6fca2113f7a7fa23ac6c9db109e"
+hash = "16e6050845f0bfad70d25226fdbba2502fee88cb7443ff47cc63b1a803f5c45a"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/ultracraft-crash-fix-1.0.0.jar"
-hash = "2bc71959571cc496068243e2f8565dcec9b4723e6af09158267459d5d14a8f95"
+hash = "d6818563cd19a99b030e616203d914dafd666d17902e3ea40598cbd91bcf93af"
 
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
