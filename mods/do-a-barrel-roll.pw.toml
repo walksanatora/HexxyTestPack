@@ -1,18 +1,18 @@
 name = "Do a Barrel Roll"
-filename = "do_a_barrel_roll-fabric-3.5.4+1.20.1.jar"
+filename = "do-a-barrel-roll-3.3.7+1.20-fabric.jar"
 side = "client"
 
+[option]
+optional=true
+default=true
+description="flight sim moment"
+
 [download]
-url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/rzK5er8a/do_a_barrel_roll-fabric-3.5.4%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/S0QngIQM/do-a-barrel-roll-3.3.7%2B1.20-fabric.jar"
 hash-format = "sha1"
-hash = "108bcbdbb8720ca1d74f1db077278993c71eb0dd"
+hash = "956e53b2f8dbc2c582b134e77b637be0fe2d9fe3"
 
 [update]
 [update.modrinth]
 mod-id = "6FtRfnLg"
-version = "rzK5er8a"
-
-[option]
-optional = true
-description = "flight sim moment"
-default = true
+version = "S0QngIQM"
