@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/ultracraft-crash-fix-1.0.0.jar"
-hash = "e17850df518c29a0e4dbacc2c9bcfc819a9a25b34ea231b3acd46c71cae485d6"
+hash = "2bc71959571cc496068243e2f8565dcec9b4723e6af09158267459d5d14a8f95"
 
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
