@@ -85,6 +85,11 @@ hash = "da0136131367a12fc30d78e73e631ddf172a32f5f1021cf78dbf2fc9e804a3dd"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "fb74f8257a46a29c27c1861e7d4b5fd361bcffc9b167d49d846037f49a09ff70"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
@@ -481,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "65f347a0032d625a3911a27bf504f894670966e4c00dd31a0f3b01e27043cc9e"
+hash = "d8829c303534943fec12d10d51496e6ae5a810a24e0b5378246987083d809fa0"
 metafile = true
 
 [[files]]
