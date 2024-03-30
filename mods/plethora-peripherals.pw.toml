@@ -1,13 +1,13 @@
 name = "Plethora Peripherals"
-filename = "Plethora-Fabric-1.9.4.jar"
+filename = "Plethora-Fabric-1.11.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LDfFdCXe/versions/5pxGGDeh/Plethora-Fabric-1.9.4.jar"
+url = "https://cdn.modrinth.com/data/LDfFdCXe/versions/AaP12WpM/Plethora-Fabric-1.11.2.jar"
 hash-format = "sha1"
-hash = "f74a2ffac847c3e4d1e78f1ab719b337c4f9f873"
+hash = "172089fb18baa7094df4239ca72d9c9a9ce31dc9"
 
 [update]
 [update.modrinth]
 mod-id = "LDfFdCXe"
-version = "5pxGGDeh"
+version = "AaP12WpM"

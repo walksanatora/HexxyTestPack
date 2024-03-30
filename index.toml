@@ -396,7 +396,7 @@ hash = "3da39c503bdfc22aa88f550f6713f21df745d10bef2f1b7574f6c78ce3c7e408"
 
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
-hash = "a29c8f273dfa3929fe2c51cc474f95357f6aa9eb0cdb715cee637e3a577904d9"
+hash = "9a86ae6feaaa25194d19804fec3a2a59f2195106920546f144fd0a0264159ddc"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/ultracraft-crash-fix-1.0.0.jar"
-hash = "e43ab09220288a0adc3184f99a06fd86a3ab91f3adf4486eb349e212ed8c6bdc"
+hash = "e17850df518c29a0e4dbacc2c9bcfc819a9a25b34ea231b3acd46c71cae485d6"
 
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
@@ -540,12 +540,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "122d6ebd6ee7942e10f825b7611e63a5898189e4631bacadd8565a69892a4b93"
+hash = "97fa9fb8210d11b8d9a08098b186f3882eb1f47dc5e20e3b5bac4952dddb2d50"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "110c0e172f2719b6efb982c91e34f112e67fa2876feb62a5a21b854ba4ad8917"
+hash = "5914f29aa2d85e3d7b16d6584be3b101b9dbc72e0720673a158098c200b2fddf"
 metafile = true
 
 [[files]]
