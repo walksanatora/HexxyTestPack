@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "a79a9d6a5fe9c86a51e1235932dfe6251a1e9936a4bc36dda8bb7ebd377cb059"
+hash = "d100b64a9bff423874a840c410d1a4a4d916ddceb519ead64760d186a9fd8314"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ hash = "3da39c503bdfc22aa88f550f6713f21df745d10bef2f1b7574f6c78ce3c7e408"
 
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
-hash = "a29c8f273dfa3929fe2c51cc474f95357f6aa9eb0cdb715cee637e3a577904d9"
+hash = "9a86ae6feaaa25194d19804fec3a2a59f2195106920546f144fd0a0264159ddc"
 metafile = true
 
 [[files]]
