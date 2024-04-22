@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/hextweaks.json"
+hash = "933db55075e1a22b595adcab1027d945d1563bd1b51bbe2b2bb1042b84a8957f"
+
+[[files]]
 file = "config/plethora.hocon"
 hash = "0d6db9e313618e28354c6229918f5d766d4345d17b2061d166829dec83a979ac"
 
@@ -250,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextweaks-4.0.0.jar"
-hash = "e2fb2df7c015b1166e41c57a9867f0632ca8928fe5e76ccab4ffe020b70e1bb0"
+hash = "2526fdc36cf0ba5c8c4c616d4b6e52b2a46dd3b6f6f2f161a264c981544949a7"
 
 [[files]]
 file = "mods/hexxy-dimensions-1.3.0.jar"
