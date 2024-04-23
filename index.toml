@@ -404,6 +404,11 @@ hash = "03c50c52bcdcc958ab261fdf157977356800ea7402f40bcc1c9552a465bb2ec6"
 metafile = true
 
 [[files]]
+file = "mods/powerae2cc.pw.toml"
+hash = "6eb64220f87961daa78156f8d63b2f77a2870eeddf6d6af55af62eea407fe565"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "3212f0db507b4091d07c75c88254f7aec18e96a27f648f76234cb7951a19ffca"
 metafile = true
