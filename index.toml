@@ -240,12 +240,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "bfc8afbaed7f82e3a4d820a7d3b4edca6b7af8f7915e972c72832e0786fd9dbd"
+hash = "a9da0392540d6ced5b66447b8fecd8d4362c693164ef0187379bd56f012830cc"
 metafile = true
 
 [[files]]
 file = "mods/ftb-teams-fabric.pw.toml"
-hash = "4b6e750998339114bf081528a710bf1f0090b52b9c83b971a727dd55157b67f7"
+hash = "f50b4146e7cf0a045a593aa23f849eaafe9980b1fc82a55dd1b3ba08a3193253"
 metafile = true
 
 [[files]]
