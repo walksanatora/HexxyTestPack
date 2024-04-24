@@ -2,6 +2,11 @@ name = "FTB Teams (Fabric)"
 filename = "ftb-teams-fabric-2001.3.0.jar"
 side = "both"
 
+[option]
+optional=true
+default=true
+description="FTB teams"
+
 [download]
 hash-format = "sha1"
 hash = "a565eba19816d7ab388901dd92da8c7f4a9448b6"
