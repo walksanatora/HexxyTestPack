@@ -1,7 +1,7 @@
 name = "hexdebug"
-filename = "hexdebug-fabric-0.1.0+1.20.1.jar"
+filename = "hexdebug-fabric-0.1.1+1.20.1.jar"
 
 [download]
-url = "https://github.com/object-Object/HexDebug/releases/download/v0.1.0%2B1.20.1/hexdebug-fabric-0.1.0+1.20.1.jar"
+url = "https://github.com/object-Object/HexDebug/releases/download/v0.1.1%2B1.20.1/hexdebug-fabric-0.1.1+1.20.1.jar"
 hash-format = "sha256"
-hash = "f20ae42cb085c5b214b3cbbfe7b89a886bb861e4ed64d8446588bb7b56bc6de5"
+hash = "814cc2778eca254d4f0a8db09bcf128ee620a669860bd950f3217fdbcca6d4b2"
