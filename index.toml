@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b2add68278027f1d23ca7fd0440ea686faa37d6ccefd55dc064bac9e6f93de54"
+hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
 metafile = true
 
 [[files]]
@@ -264,7 +264,12 @@ hash = "934a3dbd3118f5982527dff8735aa93b3a9a4ebe8cd5f575fd6e570d84af0e33"
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "7f664a1b293b31699f1263340c24010d5312f5dd0eba6bb211d07503315caf71"
+hash = "3c329bec8fb3c35cdf2e50cadc1f05101137f1381d66e0c36bb1b1af64358b39"
+metafile = true
+
+[[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "f1a824ed5305563b8b2a1b5fb2dcf9a50d1f26b84787d3b166b557262ff59816"
 metafile = true
 
 [[files]]
@@ -535,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "af8a83655e6c01ad4b4116696642e36fe330fe3505f1e4c1c1c915d800aaa51a"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "4b1ac891c4294406a9660e50aa2fdf267e3714e2523c44506f93ce234903bf91"
 metafile = true
 
 [[files]]
