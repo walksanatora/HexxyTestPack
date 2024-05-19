@@ -268,10 +268,6 @@ hash = "3c329bec8fb3c35cdf2e50cadc1f05101137f1381d66e0c36bb1b1af64358b39"
 metafile = true
 
 [[files]]
-file = "mods/hexdebug-fabric-0.1.0+1.20.1-8bdfa73cbe.jar"
-hash = "d76e0098f1c9fbc2094bc19123caf3d6b8e3149a1b7f8a4f0a983c78e3528767"
-
-[[files]]
 file = "mods/hexdebug.pw.toml"
 hash = "23fc34be3c67a637671ea3b2d5d1060711a42091e3d59ad2af7bc79ae5b57578"
 metafile = true
