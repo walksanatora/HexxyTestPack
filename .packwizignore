@@ -1,3 +1,5 @@
 *.mrpack
 .github/
 bc23/
+.githooks/
+.testserver/
