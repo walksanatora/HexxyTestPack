@@ -268,6 +268,10 @@ hash = "3c329bec8fb3c35cdf2e50cadc1f05101137f1381d66e0c36bb1b1af64358b39"
 metafile = true
 
 [[files]]
+file = "mods/hexcreep-fabric-1.0.0.jar"
+hash = "ef3dcb5c2eaf61ae37d0756c864041340a2fd3268c4a2fafb08ab16cbd8497ac"
+
+[[files]]
 file = "mods/hexdebug.pw.toml"
 hash = "d34b651ee8609b8037ead385908a5819dcea641771d4c576804fec721367aabf"
 metafile = true
