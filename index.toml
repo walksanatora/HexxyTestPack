@@ -273,7 +273,7 @@ hash = "2ac830699dccef8897899793603f65dd8d10207ee39cdc44fde9710f80a45f73"
 
 [[files]]
 file = "mods/hexdebug.pw.toml"
-hash = "d34b651ee8609b8037ead385908a5819dcea641771d4c576804fec721367aabf"
+hash = "205d27235101623d4eb36a175798628f2aa95077c2fb5db57b996383b5916301"
 metafile = true
 
 [[files]]
