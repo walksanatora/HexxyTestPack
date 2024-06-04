@@ -655,11 +655,6 @@ hash = "4c6233f697779c1eb83616e96216be90cd7c64054f2310185fdcd2158994f38c"
 metafile = true
 
 [[files]]
-file = "mods/blur-forge.pw.toml"
-hash = "fafd22b49e95f7863b305469c1a019408fb25ea8a82bad834ccb3a4faa4709dd"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "5531003c3544a332c88764091e2f1804406907ba9c798a986a8744cebecf285f"
 metafile = true
@@ -962,11 +957,6 @@ hash = "f3e6e2fec9b0cac8a981a53de92edcea1e6f5b23d12e2c868a86d0d483403999"
 metafile = true
 
 [[files]]
-file = "mods/item-filters.pw.toml"
-hash = "ead0774a3bc4a9160aba73a2b764d7a9d3a4dba0efb35e1db4f8e605d99c5e01"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
 metafile = true
@@ -1076,7 +1066,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "606194e572cd05573e9ac9978a2321efe31a1f90d24f8b42daac41734c307626"
+hash = "d322bd9f7751558daa270e3a08eaa1b03809cf4ad4e58b65e2cdfe1f5240b4c6"
 metafile = true
 
 [[files]]
