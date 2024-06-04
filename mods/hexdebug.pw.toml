@@ -3,11 +3,11 @@ filename = "hexdebug-forge-0.2.2+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/A2pscGC5/versions/SzV2YrQ9/hexdebug-forge-0.2.2%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "f9673209055a156bd324620799cdfaa9b0fa14d6"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5379206
-project-id = 1016340
+[update.modrinth]
+mod-id = "A2pscGC5"
+version = "SzV2YrQ9"

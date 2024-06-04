@@ -3,11 +3,11 @@ filename = "EnigmaticLegacy-2.29.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/IpUWAlqM/versions/mkqkIwez/EnigmaticLegacy-2.29.0.jar"
 hash-format = "sha1"
 hash = "8e4157a20b62270154ab9e35dbe3bfd5285b1072"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4976252
-project-id = 336184
+[update.modrinth]
+mod-id = "IpUWAlqM"
+version = "mkqkIwez"
