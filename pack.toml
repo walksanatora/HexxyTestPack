@@ -1,4 +1,4 @@
-name = "Hextest"
+name = "Hexxy Test Pack"
 author = "walksanator"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "803baf17f2f56f88bbf6b016fc2ff19c372b046f3b83c1282dd5c1e1da8d4a4d"
+hash = "77958bbe6ab2a81c776d2505d36d6ff9f5736ea711f9705ee948e81e9758db90"
 
 [versions]
-fabric = "0.15.10"
+forge = "47.2.32"
 minecraft = "1.20.1"
