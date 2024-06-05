@@ -9,10 +9,6 @@ file = "config/enigmaticlegacy-common.omniconf"
 hash = "4b1ddb1c59b3496fbacbe155bc68b0abd3aef27ce62ed8c0c9d90e16349b6ef6"
 
 [[files]]
-file = "modlist.txt"
-hash = "c57c46b111be41ae92b89c88bc5e0e0ae4ac8af1e2ece9c1197b85b45ddab950"
-
-[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "5e73e3f55cb5d0a6e469f53e9a887e70b881b3e3352fbc7e13550da541d0eefb"
 metafile = true
@@ -632,10 +628,6 @@ metafile = true
 [[files]]
 file = "readme.md"
 hash = "867e0e39c91aa976cb7cde8647f15bb31aff3baccdac7e6f3d16a244395355e1"
-
-[[files]]
-file = "realmods.txt"
-hash = "486194f9f6b592f498385ee97f2f14017b3dd07a074205f9864675a555263dc0"
 
 [[files]]
 file = "resourcepacks/through-tikis-eyes.pw.toml"
