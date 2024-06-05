@@ -1,0 +1,13 @@
+name = "Through Tiki's Eyes"
+filename = "Through Tiki's Eyes.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H9O8b1Mi/versions/ZjzmyAob/Through%20Tiki%27s%20Eyes.zip"
+hash-format = "sha1"
+hash = "5bccd30734bc281552578464ebfd4ffaac482fff"
+
+[update]
+[update.modrinth]
+mod-id = "H9O8b1Mi"
+version = "ZjzmyAob"
