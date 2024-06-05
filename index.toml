@@ -9,6 +9,15 @@ file = "config/enigmaticlegacy-common.omniconf"
 hash = "4b1ddb1c59b3496fbacbe155bc68b0abd3aef27ce62ed8c0c9d90e16349b6ef6"
 
 [[files]]
+file = "modlist.txt"
+hash = "c57c46b111be41ae92b89c88bc5e0e0ae4ac8af1e2ece9c1197b85b45ddab950"
+
+[[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "5e73e3f55cb5d0a6e469f53e9a887e70b881b3e3352fbc7e13550da541d0eefb"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "5bd1aca47d748a26d70928614ae6c4a2c853b6ba465aeef31fb741ff02da23b9"
 metafile = true
@@ -39,11 +48,6 @@ hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
 
 [[files]]
-file = "mods/applied-botanics-addon.pw.toml"
-hash = "276ce628e43d33191605204300202bae93973005a5ed51eb74908f12ce200253"
-metafile = true
-
-[[files]]
 file = "mods/applied-botanics.pw.toml"
 hash = "9c63cd15639eb8bf581976828c7c0604ca58f210f1a895b87d36b0a618c143e0"
 metafile = true
@@ -71,6 +75,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "33e828c63a098d971fb2b98cfa0f90bf96337d3a254afdc863463f4d62b57781"
+metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
+hash = "858d148713ff16c7a8f554b2b8e100fb04257da00c44757646a0dc0c8b3ae32f"
 metafile = true
 
 [[files]]
@@ -204,6 +213,16 @@ hash = "a5b0f85c1e1c585e2e38d2ab902340647b5d59ed83c0bf12f7d17e6d8f48d078"
 metafile = true
 
 [[files]]
+file = "mods/direcolonies.pw.toml"
+hash = "a80f3ea83e5f706a40062d0ae3c3199f6e65ee0098b318c702f5fa83c948f780"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "127755a295858228bdbc4e696c06adf201eee057e8ed67e785c9180af139d557"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true
@@ -318,8 +337,9 @@ file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
 hash = "fc100f14cb214372223ddb1752bab7f2b4735eb0a89199708856affbfb711e06"
 
 [[files]]
-file = "mods/hexcasting-forge-1.20.1-0.11.1-7-pre-637.jar"
-hash = "347e22a63f937aa29a7ffcebedd2c34b3e2c4cf80ac80082dcfc733196144808"
+file = "mods/hexcasting.pw.toml"
+hash = "58c76cb5269063a0c13e789342009e531b51359361ee4b76f1945a49868b2741"
+metafile = true
 
 [[files]]
 file = "mods/hexdebug.pw.toml"
@@ -391,6 +411,11 @@ hash = "b4d8f52ac3e7bee8de9dff18d5dda00b23ae3a118778ab374e036ffdffd13f20"
 metafile = true
 
 [[files]]
+file = "mods/jadecolonies.pw.toml"
+hash = "b4f2303ad933f043ea13832bb130fec60ad4892e489bc19f9fff7db1b9db8a66"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "e93f24623fe48bd7eee6e54e80c223ce71e639e210372124b8f22dd6b72924cc"
 metafile = true
@@ -441,6 +466,11 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "535c811a2d0a2fc674614bb797fb65ef181b704f2f4c8397526cd8eda8d298ad"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "13d28cbb0b6e5d8b50ed246a37cd80422dfa2522e4520eded7f9618228227535"
 metafile = true
@@ -455,6 +485,11 @@ file = "mods/moreiotas-forge-1.20.1-0.1.0-3.jar"
 hash = "92be33a263cf72656aba8808e1873c7a45a7182e2161523cd6a4b99ee864cd4f"
 
 [[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
+metafile = true
+
+[[files]]
 file = "mods/mutil.pw.toml"
 hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
 metafile = true
@@ -465,18 +500,14 @@ hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "3289e98ddd0f9804882a8893fae99f34907b0cdf2a16ab441d925d0321318fe6"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
 
 [[files]]
-file = "mods/paucal-forge-1.20.1-0.6.0-pre-118.jar"
-hash = "26d453f649485b2be056a7b8450a212c5a6866c98fc4f2d6cc64fe04f645fb53"
+file = "mods/paucal.pw.toml"
+hash = "84d9de6ff1173d49eb49d5260cf77087a5938f8e98eee1931c2fe220b9ddf23d"
+metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
@@ -539,6 +570,11 @@ hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
 metafile = true
 
 [[files]]
+file = "mods/structurize.pw.toml"
+hash = "f7d1969a180e5f3282109c4bf994fca10bea81d12b50dd967818f87d889c73f5"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "51d5ed928f1e8800a9dd42b44e0f8a4c547780dd763a91748812312b5d29f371"
 metafile = true
@@ -556,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/tetras-delight.pw.toml"
 hash = "ce69359fd01caf893a419a088f5252ead0d73fad51ae02b504bbc430b216cc51"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
 metafile = true
 
 [[files]]
@@ -591,6 +632,10 @@ metafile = true
 [[files]]
 file = "readme.md"
 hash = "867e0e39c91aa976cb7cde8647f15bb31aff3baccdac7e6f3d16a244395355e1"
+
+[[files]]
+file = "realmods.txt"
+hash = "486194f9f6b592f498385ee97f2f14017b3dd07a074205f9864675a555263dc0"
 
 [[files]]
 file = "resourcepacks/through-tikis-eyes.pw.toml"
