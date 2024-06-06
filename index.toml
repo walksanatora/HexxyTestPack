@@ -478,6 +478,11 @@ hash = "636782e1ca59054f196895cbe26218365960dafebb6b3d8f018320847271674a"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "2ac92bd60df1038a79fb3d7383fb593d53aaedbd38ebc57a9ab21b815cabe342"
 metafile = true
