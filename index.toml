@@ -346,6 +346,16 @@ hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
 metafile = true
 
 [[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "f9923d413d98e0fdb3a15dccd597b389a77cab6546b94db46817d697814df00c"
+metafile = true
+
+[[files]]
+file = "mods/gag.pw.toml"
+hash = "2920900686e8d6868a3196cd9ccc269d14eb435c7212ec34b4807498cbbf8de4"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ec8c818d45d9d25c601c1130b5cc80d44a769fe42ea7d05f6322920185192855"
 metafile = true
