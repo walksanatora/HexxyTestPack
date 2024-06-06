@@ -1,6 +1,6 @@
 name = "IBE Editor"
 filename = "IBEEditor-1.20-2.2.8-forge.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/E9sX1ncV/versions/Xt1HBBDl/IBEEditor-1.20-2.2.8-forge.jar"

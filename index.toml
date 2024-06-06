@@ -291,17 +291,17 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "50cccc98a2eabd7abf8d7b0fbb506bbf408a04c40aba21370e6d30053cb0d9bd"
+hash = "3e8e2a8e07dc49b294a001d3a0e5b80388437c4a8058b9ba0b308127f2f0010f"
 metafile = true
 
 [[files]]
 file = "mods/emiffect.pw.toml"
-hash = "68d1babb9367d13f4ac375ea41cd4f1affaf12a5ff047386ab2c6aee83c9a023"
+hash = "4669713a422d7207ec522f5b4077605d104aeda82ad11c746669c396f3e1f152"
 metafile = true
 
 [[files]]
 file = "mods/emitrades.pw.toml"
-hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
+hash = "4d56498d822f43503545ce5f80318a61e1479403b5b2b178c50dd4afadd879c6"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ hash = "aa9b899a37a4170447375290a13dc55bad6fd44ab4d05a7bb1007872902e133e"
 
 [[files]]
 file = "mods/ibe-editor.pw.toml"
-hash = "8326846e1c7ace328f17a56c95e7d5bb0797c704b6e8b2fee75d3fb39dc1c264"
+hash = "d408e472bf96a8fba8f2c5045d89e0124237efe4b842145ede8e143a9e7aba0d"
 metafile = true
 
 [[files]]
@@ -454,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e93f24623fe48bd7eee6e54e80c223ce71e639e210372124b8f22dd6b72924cc"
+hash = "98727baa5596efd274e4f99cddda4f289931bc14f527261c76f1f959fc3a0eb3"
 metafile = true
 
 [[files]]
@@ -633,12 +633,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a4f51b0ae9d618e46d8d1c0b08a32d1639aa6338a8400ec14d61dbca1af272af"
+hash = "877eb6c137d442e31b365e19619672f6012cfee2c38494a224f595b2c60949c0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c1918df9e7d093988f06d5443ee9516f447054754335c5426d0516286c25c876"
+hash = "c2edec4263085fd82ca212807fde29716bfc5f8f6aee3bf466629d1492f358d5"
 metafile = true
 
 [[files]]
