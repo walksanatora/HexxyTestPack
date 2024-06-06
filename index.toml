@@ -45,6 +45,10 @@ file = "config/lootr-common.toml"
 hash = "92750ffa1760480862608da28109e4d147522351caa0c778f33467b08fbe2c71"
 
 [[files]]
+file = "config/minecolonies-server.toml"
+hash = "3c768f03f544a2549ae2dcbae0e390c2dc97563a4a46814b3b696f3443a952ea"
+
+[[files]]
 file = "config/mna-general.toml"
 hash = "9f75acb4cb6021d0c35f75677099b31938a21bf205866591645be8ea883997cf"
 
@@ -223,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "f65266cb549dfdbd4e72288d5c80be2090a288c0986800fcabc0de1702d634c4"
 metafile = true
 
 [[files]]
