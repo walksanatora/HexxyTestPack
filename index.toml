@@ -1,12 +1,64 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ae2/common.json"
+hash = "9dbf063f897f45445a27bb5aa5dbf6d771f7f59599243e3eebe335f7ce41968d"
+
+[[files]]
+file = "config/alexscaves-general.toml"
+hash = "61aadc6264444416d4274e970f8365c973fd5d58ccda4a0c20c9a0cd27116f3e"
+
+[[files]]
+file = "config/armourers_workshop-common.toml"
+hash = "3a66280eb5051bb1c9ec776fbbc2ff5e691b0453b3bdbc5d35cb5b79fac9f39f"
+
+[[files]]
+file = "config/bloodmagic-common.toml"
+hash = "2a3cbda5e27658bba304db17a7551f31c255a8873e4e9889794a37fa222a75ae"
+
+[[files]]
 file = "config/eccentrictome-common.toml"
 hash = "0af434e368897f11583785b370409da666f5c2242e967f53ac267d631a95c3a7"
 
 [[files]]
+file = "config/enderchests.toml"
+hash = "6fe9a14e5490cab30e790395f765939331422986d1b5a3d18387221d82c78ea8"
+
+[[files]]
+file = "config/endertanks.toml"
+hash = "f686342f4075a3f2682cd31841c3543b23bc929547efb5f9866a7265e8c2b6c0"
+
+[[files]]
 file = "config/enigmaticlegacy-common.omniconf"
 hash = "4b1ddb1c59b3496fbacbe155bc68b0abd3aef27ce62ed8c0c9d90e16349b6ef6"
+
+[[files]]
+file = "config/etched-server.toml"
+hash = "48db93943e9a3d32ee9e3e965967576b4aadc59ceabb8ee66056bf6fe2c4de63"
+
+[[files]]
+file = "config/ibeeditor-common.json"
+hash = "706ce460c6b7ffdc436c317556ce95eff92414a9f2a7828d4f8a3a868f6789ec"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "92750ffa1760480862608da28109e4d147522351caa0c778f33467b08fbe2c71"
+
+[[files]]
+file = "config/mna-general.toml"
+hash = "9f75acb4cb6021d0c35f75677099b31938a21bf205866591645be8ea883997cf"
+
+[[files]]
+file = "config/mna-spells.toml"
+hash = "81d5d9359fad6d59245f6648d57b5010597688a5b4eb6f62aa151c098e17e3e4"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "25116a125aa0ee7896874ebcfc62ca4ea523ad898a5f5f84078c685d1f11cd2a"
+
+[[files]]
+file = "config_changes.txt"
+hash = "ed2be63a1688e10fceb8de31e0eb1d968dcaa4c5eeb76e5945385479c90b6136"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -15,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "5bd1aca47d748a26d70928614ae6c4a2c853b6ba465aeef31fb741ff02da23b9"
+hash = "04e12ebae4c69d228a6feddb0815491b04beb881d430632363c43a04cb9798ec"
 metafile = true
 
 [[files]]
@@ -46,11 +98,6 @@ metafile = true
 [[files]]
 file = "mods/applied-botanics.pw.toml"
 hash = "9c63cd15639eb8bf581976828c7c0604ca58f210f1a895b87d36b0a618c143e0"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "1067eb79a7595900dfe6b117a8a9dae8ce2c8872cc996cf5e30da4bf1aca770b"
 metafile = true
 
 [[files]]
@@ -86,11 +133,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "5531003c3544a332c88764091e2f1804406907ba9c798a986a8744cebecf285f"
-metafile = true
-
-[[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "6299edab7c031a3f8a8fd59bc19a22213d9c4a4f745a2ae04f4ac78086f38355"
 metafile = true
 
 [[files]]
@@ -169,11 +211,6 @@ hash = "6f2dd94587eeece8009e19fdb79f0f7326d1807baed47eb67afa349dcfbe6d49"
 metafile = true
 
 [[files]]
-file = "mods/create-destroy.pw.toml"
-hash = "2d1204fd594306e9025bcbe860bdb3de337f891eb8fd089b82a48d479cb6ad07"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "cc6024c02ab4cfcadea22833dd439456f726a23525d05ef2dfde0bb5e2d541af"
 metafile = true
@@ -234,11 +271,6 @@ hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
 metafile = true
 
 [[files]]
-file = "mods/embers-rekindled.pw.toml"
-hash = "b6800c6974ec261b0adb2f800677653f1f4856776093ed99a2628af15f332450"
-metafile = true
-
-[[files]]
 file = "mods/embers.pw.toml"
 hash = "46e072e3cf3fd3e8ba7a4cae07839773ed921385ee433fbf5ead21064919541e"
 metafile = true
@@ -249,18 +281,8 @@ hash = "5e3e6bd38266786f78f570307f54ab49bfc6337a0e6667d2635d3407c857ff86"
 metafile = true
 
 [[files]]
-file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
-hash = "27b1964e1583318e348f75fcb6a955c47f0d8650fcef62c6a07b7b1891bd2526"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "50cccc98a2eabd7abf8d7b0fbb506bbf408a04c40aba21370e6d30053cb0d9bd"
-metafile = true
-
-[[files]]
-file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
-hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
 metafile = true
 
 [[files]]
@@ -397,8 +419,8 @@ hash = "f3e6e2fec9b0cac8a981a53de92edcea1e6f5b23d12e2c868a86d0d483403999"
 metafile = true
 
 [[files]]
-file = "mods/jade-addons.pw.toml"
-hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
+file = "mods/jade-addons-forge.pw.toml"
+hash = "ee91acdffc481f535911c38fbc06c62c85e6531a2ee7e4e116401b3ad544e74a"
 metafile = true
 
 [[files]]
@@ -531,11 +553,6 @@ hash = "6c16f5b1ef1c58c3f4380f315c395881629e7d5bc29655a052826f60b597f308"
 metafile = true
 
 [[files]]
-file = "mods/redstone-pen.pw.toml"
-hash = "52e3e90b2af5df1504ac22354c28b67555b185384963465abc0c79605e5180e7"
-metafile = true
-
-[[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "a025dddb33aaa8bd46888833c1e7099de509adef228666e5c4f2646a932e34a6"
 metafile = true
@@ -543,11 +560,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
-metafile = true
-
-[[files]]
-file = "mods/selene.pw.toml"
-hash = "085cf9d7f9823cec6fb7c9369fcfc22485a0bd2d810a7e2bac0ad8ba7c8f773e"
 metafile = true
 
 [[files]]
@@ -596,16 +608,6 @@ hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
-metafile = true
-
-[[files]]
-file = "mods/unofficial-memory-leak-fix.pw.toml"
-hash = "c1c7cf4f030cd0a86271dde21402e987a79d2059b70c27cf8beb4d76d85f5b43"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "7d5dba4cf4a48ae96d728377767c5cd1b3d743967255b987d272c6f884372463"
 metafile = true
@@ -628,8 +630,3 @@ metafile = true
 [[files]]
 file = "readme.md"
 hash = "867e0e39c91aa976cb7cde8647f15bb31aff3baccdac7e6f3d16a244395355e1"
-
-[[files]]
-file = "resourcepacks/through-tikis-eyes.pw.toml"
-hash = "e8523bec3e853f1d8d065358845d3ab236e2d38b6daaf581ca9ba0442af91af3"
-metafile = true
