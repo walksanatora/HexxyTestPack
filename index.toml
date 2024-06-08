@@ -65,6 +65,15 @@ file = "config_changes.txt"
 hash = "ed2be63a1688e10fceb8de31e0eb1d968dcaa4c5eeb76e5945385479c90b6136"
 
 [[files]]
+file = "mods/Spectrum.jar"
+hash = "f5716f27a3c3301c1eb7428378d320c37126bd3aaf304fe8791165bdafabd427"
+
+[[files]]
+file = "mods/additionalentityattributes-forge.pw.toml"
+hash = "cfa39a9215da47d8d6290b687885bc625f8c7be412a9a5b66e8f285b93fa5afc"
+metafile = true
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "5e73e3f55cb5d0a6e469f53e9a887e70b881b3e3352fbc7e13550da541d0eefb"
 metafile = true
@@ -172,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
@@ -528,6 +542,11 @@ hash = "535c811a2d0a2fc674614bb797fb65ef181b704f2f4c8397526cd8eda8d298ad"
 metafile = true
 
 [[files]]
+file = "mods/mixin-in-heaven.pw.toml"
+hash = "66f8d30e72ccea2a28885f53122ed13af24515cb93b770e223551bfde3a8c841"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "13d28cbb0b6e5d8b50ed246a37cd80422dfa2522e4520eded7f9618228227535"
 metafile = true
@@ -619,11 +638,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
-metafile = true
-
-[[files]]
-file = "mods/spectrum.pw.toml"
-hash = "c17a2451ceac1089f440668771cc3d641e5f4be7a9b5db6c74940f629c59c029"
 metafile = true
 
 [[files]]
