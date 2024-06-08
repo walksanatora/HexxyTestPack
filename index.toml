@@ -115,6 +115,21 @@ hash = "18e34971689eca59d0811520856d251c6e61f901aee2f2c62d8cc257c0748949"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "628d399340e67a9f64246c8900dabc1efc338ca5dafec5fc24938c9d8b3bfdfa"
+metafile = true
+
+[[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "cd696e5006a93abd5841e523b6419d4a60f3e997cfc78972a80633858c691143"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "5b73728cb17bf6fbcfcf2740e75255f766b69c964ea57a070e7c580d490d221f"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
 metafile = true
@@ -524,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreiotas-forge-1.20.1-0.1.0-3.jar"
-hash = "92be33a263cf72656aba8808e1873c7a45a7182e2161523cd6a4b99ee864cd4f"
+hash = "9d3d9a195857e5b0b29aefd50702b89fe005c3b66d249ef3441cdb6afe0cb598"
 
 [[files]]
 file = "mods/multi-piston.pw.toml"
@@ -582,6 +597,11 @@ hash = "a025dddb33aaa8bd46888833c1e7099de509adef228666e5c4f2646a932e34a6"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "c3e4cce180fa406e5c44bde59b1f2f23ddc970394079768f774fc007b700f156"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
@@ -599,6 +619,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "c17a2451ceac1089f440668771cc3d641e5f4be7a9b5db6c74940f629c59c029"
 metafile = true
 
 [[files]]
@@ -627,8 +652,18 @@ hash = "ce69359fd01caf893a419a088f5252ead0d73fad51ae02b504bbc430b216cc51"
 metafile = true
 
 [[files]]
+file = "mods/tome-of-blood-rebirth.pw.toml"
+hash = "b22da6c7e7b31016cde8c5b3c8757e075b0fb2130da59193fb51544232b592ac"
+metafile = true
+
+[[files]]
 file = "mods/towntalk.pw.toml"
 hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
