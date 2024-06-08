@@ -30,7 +30,7 @@ hash = "f686342f4075a3f2682cd31841c3543b23bc929547efb5f9866a7265e8c2b6c0"
 
 [[files]]
 file = "config/enigmaticlegacy-common.omniconf"
-hash = "85253ed51d6836210f6d31354cdc384687142e3b3dfea0d16bf84c3b721ff66a"
+hash = "8becbf556c1d47ad12281be3ccd5c13b378dfa2d07f375801915c82776a3740e"
 
 [[files]]
 file = "config/etched-server.toml"
