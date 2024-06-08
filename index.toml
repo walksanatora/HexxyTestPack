@@ -30,7 +30,7 @@ hash = "f686342f4075a3f2682cd31841c3543b23bc929547efb5f9866a7265e8c2b6c0"
 
 [[files]]
 file = "config/enigmaticlegacy-common.omniconf"
-hash = "4b1ddb1c59b3496fbacbe155bc68b0abd3aef27ce62ed8c0c9d90e16349b6ef6"
+hash = "85253ed51d6836210f6d31354cdc384687142e3b3dfea0d16bf84c3b721ff66a"
 
 [[files]]
 file = "config/etched-server.toml"
@@ -38,7 +38,7 @@ hash = "48db93943e9a3d32ee9e3e965967576b4aadc59ceabb8ee66056bf6fe2c4de63"
 
 [[files]]
 file = "config/ibeeditor-common.json"
-hash = "706ce460c6b7ffdc436c317556ce95eff92414a9f2a7828d4f8a3a868f6789ec"
+hash = "b02617f2f7b74cea9c45c19d7296d3aeb3cc8a738575039ef28e2d4799312751"
 
 [[files]]
 file = "config/lootr-common.toml"
@@ -55,6 +55,10 @@ hash = "9f75acb4cb6021d0c35f75677099b31938a21bf205866591645be8ea883997cf"
 [[files]]
 file = "config/mna-spells.toml"
 hash = "81d5d9359fad6d59245f6648d57b5010597688a5b4eb6f62aa151c098e17e3e4"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "cdaba51178f25242050039c2bbe4d32e9b55dc194f0839d6a75a9e39664af536"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
@@ -139,6 +143,11 @@ hash = "5b73728cb17bf6fbcfcf2740e75255f766b69c964ea57a070e7c580d490d221f"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "0700d17f36cd6b256bc65d30c79068d2627faacc7d6a601140445740c8960743"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
 metafile = true
@@ -194,6 +203,11 @@ hash = "59dcbc3a47f407858e52dbd02948e258ccc38ced0a78451bab9fbb6eb0b3e9be"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "969619bf25aab69f366b37df4849d1e10f155bc91b9179a4cedd26d39e55a33a"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "e06b4f6a4a5fa7982439f57ca5015b616c606789d9deef0ddb78838b85306fed"
 metafile = true
@@ -231,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "e29577d9983ad1e32e31262ed620cd41eed7074d83cd3c5d0849dd207539cc46"
 metafile = true
 
 [[files]]
@@ -698,6 +717,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/vestiges-of-the-present.pw.toml"
+hash = "e1ff463b3e2b624517750fc07ba78fbc2538cb2b51cff4653156f12042208b63"
 metafile = true
 
 [[files]]
