@@ -18,7 +18,7 @@ hash = "2a3cbda5e27658bba304db17a7551f31c255a8873e4e9889794a37fa222a75ae"
 
 [[files]]
 file = "config/eccentrictome-common.toml"
-hash = "0af434e368897f11583785b370409da666f5c2242e967f53ac267d631a95c3a7"
+hash = "61b02b6862e7cd98a0a5f4ea9223816c91a3d82e2f5a1650c55cc57298045831"
 
 [[files]]
 file = "config/enderchests.toml"
