@@ -408,6 +408,11 @@ hash = "f9923d413d98e0fdb3a15dccd597b389a77cab6546b94db46817d697814df00c"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "4d4a971e93e68bb91943b6ce8ea645b114a6b5a969bbddae63bcaad5c9a8adf1"
+metafile = true
+
+[[files]]
 file = "mods/gag.pw.toml"
 hash = "2920900686e8d6868a3196cd9ccc269d14eb435c7212ec34b4807498cbbf8de4"
 metafile = true
@@ -702,6 +707,11 @@ metafile = true
 [[files]]
 file = "mods/tetras-delight.pw.toml"
 hash = "ce69359fd01caf893a419a088f5252ead0d73fad51ae02b504bbc430b216cc51"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "8f558a6a66f8b7e4f194a1a3d9fc32ad143c1c18756e7c86534621edac752d8c"
 metafile = true
 
 [[files]]
