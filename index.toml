@@ -46,7 +46,7 @@ hash = "92750ffa1760480862608da28109e4d147522351caa0c778f33467b08fbe2c71"
 
 [[files]]
 file = "config/minecolonies-server.toml"
-hash = "3c768f03f544a2549ae2dcbae0e390c2dc97563a4a46814b3b696f3443a952ea"
+hash = "a22286b68e880451dd7e3dbfda9030af37ef1e310707c670f24f5ecc15330e0a"
 
 [[files]]
 file = "config/mna-general.toml"
@@ -63,10 +63,6 @@ hash = "cdaba51178f25242050039c2bbe4d32e9b55dc194f0839d6a75a9e39664af536"
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
 hash = "25116a125aa0ee7896874ebcfc62ca4ea523ad898a5f5f84078c685d1f11cd2a"
-
-[[files]]
-file = "config_changes.txt"
-hash = "ed2be63a1688e10fceb8de31e0eb1d968dcaa4c5eeb76e5945385479c90b6136"
 
 [[files]]
 file = "mods/Spectrum.jar"
@@ -763,7 +759,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "86f3fe9dfda1e20b94ab08770214641e16882e314230d250f2f854a2051b4bde"
 metafile = true
-
-[[files]]
-file = "readme.md"
-hash = "867e0e39c91aa976cb7cde8647f15bb31aff3baccdac7e6f3d16a244395355e1"
