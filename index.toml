@@ -58,7 +58,7 @@ hash = "81d5d9359fad6d59245f6648d57b5010597688a5b4eb6f62aa151c098e17e3e4"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "563bed973fddc38242f44be7cce5d339c8fe5123aafb633387c80d5caca3859b"
+hash = "c92a80d1210e8f4229daf34ecc9838e32e7816b0c5752f9449bdef0f012124dd"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
