@@ -14,7 +14,7 @@ hash = "3a66280eb5051bb1c9ec776fbbc2ff5e691b0453b3bdbc5d35cb5b79fac9f39f"
 
 [[files]]
 file = "config/bloodmagic-common.toml"
-hash = "2a3cbda5e27658bba304db17a7551f31c255a8873e4e9889794a37fa222a75ae"
+hash = "09f37479edfd7a78efb00f73a1379be4683257f5caa7a364d5ee42b59eaa69b6"
 
 [[files]]
 file = "config/eccentrictome-common.toml"
