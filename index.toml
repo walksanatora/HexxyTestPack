@@ -46,7 +46,7 @@ hash = "b02617f2f7b74cea9c45c19d7296d3aeb3cc8a738575039ef28e2d4799312751"
 
 [[files]]
 file = "config/iceandfire-common.toml"
-hash = "140e33f9917cc0ec8a1d71e6de2e5c4c08ee54c0b0a0639f28bfbb9fa5e950d5"
+hash = "4411bce7cf47bf3cbc0aee72f602f0a758b2726cbd589985ccbdda501ce22906"
 
 [[files]]
 file = "config/lootr-common.toml"
@@ -309,11 +309,6 @@ metafile = true
 [[files]]
 file = "mods/direcolonies.pw.toml"
 hash = "a80f3ea83e5f706a40062d0ae3c3199f6e65ee0098b318c702f5fa83c948f780"
-metafile = true
-
-[[files]]
-file = "mods/domum-ornamentum.pw.toml"
-hash = "127755a295858228bdbc4e696c06adf201eee057e8ed67e785c9180af139d557"
 metafile = true
 
 [[files]]
@@ -590,11 +585,6 @@ hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies.pw.toml"
-hash = "535c811a2d0a2fc674614bb797fb65ef181b704f2f4c8397526cd8eda8d298ad"
-metafile = true
-
-[[files]]
 file = "mods/mixin-in-heaven.pw.toml"
 hash = "66f8d30e72ccea2a28885f53122ed13af24515cb93b770e223551bfde3a8c841"
 metafile = true
@@ -706,11 +696,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
-metafile = true
-
-[[files]]
-file = "mods/structurize.pw.toml"
-hash = "f7d1969a180e5f3282109c4bf994fca10bea81d12b50dd967818f87d889c73f5"
 metafile = true
 
 [[files]]
