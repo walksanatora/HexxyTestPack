@@ -604,11 +604,6 @@ file = "mods/moreiotas-forge-1.20.1-0.1.0-3.jar"
 hash = "9d3d9a195857e5b0b29aefd50702b89fe005c3b66d249ef3441cdb6afe0cb598"
 
 [[files]]
-file = "mods/multi-piston.pw.toml"
-hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
-metafile = true
-
-[[files]]
 file = "mods/mutil.pw.toml"
 hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
 metafile = true
