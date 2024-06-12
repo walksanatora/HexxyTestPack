@@ -21,6 +21,10 @@ file = "config/eccentrictome-common.toml"
 hash = "61b02b6862e7cd98a0a5f4ea9223816c91a3d82e2f5a1650c55cc57298045831"
 
 [[files]]
+file = "config/embers-common.toml"
+hash = "889eeedf9f7b72163714744d7710e20a5aeaf859f255bc89d1188c58a78f1f45"
+
+[[files]]
 file = "config/enderchests.toml"
 hash = "6fe9a14e5490cab30e790395f765939331422986d1b5a3d18387221d82c78ea8"
 
@@ -39,6 +43,10 @@ hash = "48db93943e9a3d32ee9e3e965967576b4aadc59ceabb8ee66056bf6fe2c4de63"
 [[files]]
 file = "config/ibeeditor-common.json"
 hash = "b02617f2f7b74cea9c45c19d7296d3aeb3cc8a738575039ef28e2d4799312751"
+
+[[files]]
+file = "config/iceandfire-common.toml"
+hash = "140e33f9917cc0ec8a1d71e6de2e5c4c08ee54c0b0a0639f28bfbb9fa5e950d5"
 
 [[files]]
 file = "config/lootr-common.toml"
@@ -454,6 +462,11 @@ hash = "aa9b899a37a4170447375290a13dc55bad6fd44ab4d05a7bb1007872902e133e"
 [[files]]
 file = "mods/ibe-editor.pw.toml"
 hash = "d408e472bf96a8fba8f2c5045d89e0124237efe4b842145ede8e143a9e7aba0d"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "5cddb71ac06974f13689c1d9b0ff4d9ba0edfbb12ce974228f3383a77228a596"
 metafile = true
 
 [[files]]
