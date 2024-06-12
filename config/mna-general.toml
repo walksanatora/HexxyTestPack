@@ -77,10 +77,10 @@ brimstonePerHeart = 50
 	#Should confuse affect players?  It will invert their controls.
 	confuseAffectsPlayers = true
 	#Should the splash component create permanent water sources?  If false the sources it creates will be temporary.
-	splashCreatesSources = false
+	splashCreatesSources = true
 	#Maximum RTP distance for RTP portals.
 	#Range: > 100
-	rtpRange = 5000
+	rtpRange = 10000
 	#Should players be allowed to apply any enchantment on a Projection Rune at the Runic Anvil regardless of their tier?
 	projectionEnchantAnything = false
 	#What magnitudes of break should map to what tools? The number set on magnitude will determine the tool material simulated.
@@ -131,7 +131,7 @@ brimstonePerHeart = 50
 	#Range: 100 ~ 15000
 	wellspringDistance = 500
 	#If true, wellsprings will generate with no affinity and the type of lens used will set the affinity of the node.
-	genericWellsprings = false
+	genericWellsprings = true
 
 #Mana and Artifice // Artifact Options
 [ma_artifact_options]
