@@ -630,11 +630,6 @@ hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies.pw.toml"
-hash = "be1f34d49b1074f219a123e4b4e4c858c5693de09bfaf4b9dd37e9d68fb66722"
-metafile = true
-
-[[files]]
 file = "mods/mixin-in-heaven.pw.toml"
 hash = "66f8d30e72ccea2a28885f53122ed13af24515cb93b770e223551bfde3a8c841"
 metafile = true
