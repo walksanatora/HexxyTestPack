@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mods">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mods/hexal-forge-1.20.1-0.3.0-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/moreiotas-forge-1.20.1-0.1.0-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/Spectrum.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/hextweaks-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
