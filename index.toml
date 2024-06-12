@@ -180,6 +180,11 @@ hash = "ba691b2593deeaffefe849120739ac96b98473b35890d9629ade63ad02ac4be7"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "76c2b4eafe19aa4cc05eebbcdc81772502961ded240f21180250cd90eb2ba4c6"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "b8be57a9d090d9afce88c71c18fa9c98021d100923de98ec00e5b9c8b6d0f790"
 metafile = true
@@ -217,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/chisel-reborn.pw.toml"
 hash = "bf0af102d4c8de56b9f7030c2b3fe9f8017f465434fd8a87ea3c28b319c49c12"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
 metafile = true
 
 [[files]]
