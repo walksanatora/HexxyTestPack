@@ -131,7 +131,7 @@ brimstonePerHeart = 50
 	#Range: 100 ~ 15000
 	wellspringDistance = 500
 	#If true, wellsprings will generate with no affinity and the type of lens used will set the affinity of the node.
-	genericWellsprings = false
+	genericWellsprings = true
 
 #Mana and Artifice // Artifact Options
 [ma_artifact_options]
