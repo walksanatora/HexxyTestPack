@@ -41,8 +41,16 @@ file = "config/etched-server.toml"
 hash = "e5d6bcba84332df82d098023128cc61f03e69ad07d8ee08691055e08cb971ff5"
 
 [[files]]
+file = "config/forge-client.toml"
+hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+
+[[files]]
 file = "config/ibeeditor-common.json"
 hash = "04bbab0e78986fe6c0e59aaf28adf30903abdd028c801a42da962dc0ff012980"
+
+[[files]]
+file = "config/iceandfire-client.toml"
+hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 
 [[files]]
 file = "config/iceandfire-common.toml"
@@ -58,7 +66,7 @@ hash = "6ec7607d660dd473b1dbfd6881b2a742cf024fc335ff6a4bd9d5310c5d4b00e9"
 
 [[files]]
 file = "config/mna-general.toml"
-hash = "e30d98aa4012dac10b7068633112f4d8daa5623f1ac5edd415c60fc4913016bf"
+hash = "1771931ac63bada7f1de1a1a91a3808155df8fdee21c069cfca7de7bfcc6adea"
 
 [[files]]
 file = "config/mna-spells.toml"
