@@ -1,13 +1,13 @@
 name = "ShetiPhianCore"
-filename = "shetiphiancore-fabric-1.20.1-1.2.jar"
+filename = "shetiphiancore-forge-1.20.1-1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oX7uP2kS/versions/7smkt8eL/shetiphiancore-fabric-1.20.1-1.2.jar"
+url = "https://cdn.modrinth.com/data/oX7uP2kS/versions/DpEzpgQ6/shetiphiancore-forge-1.20.1-1.3.jar"
 hash-format = "sha1"
-hash = "62c74f90491788a8e3ffd114dacd2bab2d989ebd"
+hash = "f85c798bdf38c27b1d81cab025f0985e18a1d591"
 
 [update]
 [update.modrinth]
 mod-id = "oX7uP2kS"
-version = "7smkt8eL"
+version = "DpEzpgQ6"

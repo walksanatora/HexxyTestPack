@@ -1,13 +1,13 @@
 name = "Redstone Pen"
-filename = "redstonepen-1.20.1-fabric-1.5.31.jar"
+filename = "redstonepen-1.20.1-neoforge-1.3.33.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DwE83ioX/versions/VaQ60bvD/redstonepen-1.20.1-fabric-1.5.31.jar"
+url = "https://cdn.modrinth.com/data/DwE83ioX/versions/3sQAAW5F/redstonepen-1.20.1-neoforge-1.3.33.jar"
 hash-format = "sha1"
-hash = "956ae8626d2f585bbeb9408c0362e98774a27aee"
+hash = "54318a6cc3fbe4fcb829daac215e3a5834696cdd"
 
 [update]
 [update.modrinth]
 mod-id = "DwE83ioX"
-version = "VaQ60bvD"
+version = "3sQAAW5F"
