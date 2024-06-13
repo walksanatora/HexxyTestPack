@@ -237,6 +237,11 @@ hash = "fa592f14a11940c0762fa39782c09794c31bde0ba13b005a2c1a69843c338f75"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "1ae87327a1b14b858635768fd5b5b70444427af8c035b5d1f5231721f488b442"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
@@ -419,6 +424,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e4b5b954332718c875877bba25a1aced57deccab885f348d53649c25bf13615f"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "51222582d954fb77194c9610d31e85f3068e41eec44a15a0f75137bfff8f5fde"
 metafile = true
 
 [[files]]
@@ -714,6 +724,11 @@ hash = "a025dddb33aaa8bd46888833c1e7099de509adef228666e5c4f2646a932e34a6"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c554748f4958ae814eb09a8eb201fb19cd605cc91088d96385257bf6c883895d"
+metafile = true
+
+[[files]]
 file = "mods/revelationary.pw.toml"
 hash = "c3e4cce180fa406e5c44bde59b1f2f23ddc970394079768f774fc007b700f156"
 metafile = true
@@ -776,6 +791,11 @@ metafile = true
 [[files]]
 file = "mods/tetras-delight.pw.toml"
 hash = "ce69359fd01caf893a419a088f5252ead0d73fad51ae02b504bbc430b216cc51"
+metafile = true
+
+[[files]]
+file = "mods/the-architects-bypass.pw.toml"
+hash = "97c9e5012a35df86dfc7abcce0d96907d455daffc46b2f876c1b28ee46a278a3"
 metafile = true
 
 [[files]]
