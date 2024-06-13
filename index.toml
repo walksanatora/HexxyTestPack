@@ -417,11 +417,6 @@ hash = "ce7069fc17c2c8405eded41798ae5dd6740bef760d873bfdcfe5f8111d335c8a"
 metafile = true
 
 [[files]]
-file = "mods/enigmatic-legacy.pw.toml"
-hash = "839e8d205c9fd19fae88b2ed6cbb72a95f9996a443e17275e1e67bef7d923944"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e4b5b954332718c875877bba25a1aced57deccab885f348d53649c25bf13615f"
 metafile = true
@@ -791,11 +786,6 @@ metafile = true
 [[files]]
 file = "mods/tetras-delight.pw.toml"
 hash = "ce69359fd01caf893a419a088f5252ead0d73fad51ae02b504bbc430b216cc51"
-metafile = true
-
-[[files]]
-file = "mods/the-architects-bypass.pw.toml"
-hash = "97c9e5012a35df86dfc7abcce0d96907d455daffc46b2f876c1b28ee46a278a3"
 metafile = true
 
 [[files]]
