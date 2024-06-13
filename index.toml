@@ -780,11 +780,6 @@ hash = "8f558a6a66f8b7e4f194a1a3d9fc32ad143c1c18756e7c86534621edac752d8c"
 metafile = true
 
 [[files]]
-file = "mods/tome-of-blood-rebirth.pw.toml"
-hash = "b22da6c7e7b31016cde8c5b3c8757e075b0fb2130da59193fb51544232b592ac"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
