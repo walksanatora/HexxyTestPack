@@ -665,6 +665,16 @@ hash = "f6da8aa98e45998c1bff9b9fb0238da4aa27ce4a453dcf088e11859120723ef7"
 metafile = true
 
 [[files]]
+file = "mods/origins-classes-forge.pw.toml"
+hash = "30769e420573bf734328cd0d10b4039305adbc882e71efd61ad673e55e1d8b70"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "fe6dc975cf3d5055c054f5dcee0cf4c2a0e0ff61cb681413da29d7a6abf482b5"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
