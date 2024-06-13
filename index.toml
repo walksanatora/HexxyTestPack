@@ -13,10 +13,6 @@ file = "config/armourers_workshop-common.toml"
 hash = "3a66280eb5051bb1c9ec776fbbc2ff5e691b0453b3bdbc5d35cb5b79fac9f39f"
 
 [[files]]
-file = "config/bloodmagic-common.toml"
-hash = "09f37479edfd7a78efb00f73a1379be4683257f5caa7a364d5ee42b59eaa69b6"
-
-[[files]]
 file = "config/eccentrictome-common.toml"
 hash = "61b02b6862e7cd98a0a5f4ea9223816c91a3d82e2f5a1650c55cc57298045831"
 
@@ -204,11 +200,6 @@ metafile = true
 [[files]]
 file = "mods/blockui.pw.toml"
 hash = "858d148713ff16c7a8f554b2b8e100fb04257da00c44757646a0dc0c8b3ae32f"
-metafile = true
-
-[[files]]
-file = "mods/blood-magic.pw.toml"
-hash = "4c6233f697779c1eb83616e96216be90cd7c64054f2310185fdcd2158994f38c"
 metafile = true
 
 [[files]]
