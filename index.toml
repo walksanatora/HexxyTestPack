@@ -1,38 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/HexxyTestPack.iml"
-hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
-
-[[files]]
-file = ".idea/codeStyles/Project.xml"
-hash = "99023cd231a20f51b11fe16eed55a5000aaaa111aa8cfb574d22e1034fe0d7dd"
-
-[[files]]
-file = ".idea/codeStyles/codeStyleConfig.xml"
-hash = "643f8c6d59b730b5b1cafc4ad85300efe30250f2cf34753625f714dc65484172"
-
-[[files]]
-file = ".idea/libraries/mods.xml"
-hash = "cb7431120b4df8229c925ad3ce59dbb65f21e276379e2146dd48a936055cfe20"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "e21bfae2d007aa04a518cbd06bee69ffe072ffc1ccaf9e0bbd60380b776412dc"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "49fd629102899c50e4c995276b877e488520fc9dcad9ee7f68000a0492879aae"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "f336f392ea3f861cfc6947828835d77c1ac8e5c812a6f6bfdaaf0f56fddd76bb"
-
-[[files]]
 file = "config/ae2/common.json"
 hash = "9dbf063f897f45445a27bb5aa5dbf6d771f7f59599243e3eebe335f7ce41968d"
 
@@ -111,6 +79,38 @@ hash = "31ee6625fec35f13650023c50128c9e6d465f1c811af4f0356cb2157a875c437"
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
 hash = "25116a125aa0ee7896874ebcfc62ca4ea523ad898a5f5f84078c685d1f11cd2a"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "ed68aa2540abf6ba291f99154649d24efda1fbcea851f7121aee251a4e8d01b2"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "cf0f0ac7b97b55271a9e9d057eeb872c367932c2c3b96700831e985044ffa1ff"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "10cc7d563bf34b2fda03ddc77bb998ef448ae3d3c407f11a395ed8e3d498a9de"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/Spectrum.jar"
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ec1f6c11507ff4c3e679def30e2f29e49e53b10e083792791bfd43873fdd7f6b"
+hash = "1fa658cc067f6e16b4c7eb4827cc234e8ca361fffc5c37d44cca73df671adef8"
 metafile = true
 
 [[files]]
@@ -587,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "c0f7fea697c69a37393253ce83df26639b6e84c64874d470502869a6b5eaccde"
 metafile = true
 
 [[files]]
@@ -711,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/revelationary.pw.toml"
 hash = "c3e4cce180fa406e5c44bde59b1f2f23ddc970394079768f774fc007b700f156"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "09e53b8ad971d1c870a94da1a4437335db9307b780073030bd445ee71e8a86f9"
 metafile = true
 
 [[files]]

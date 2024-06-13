@@ -6,3 +6,6 @@ bc23/
 dump.py
 readme.md
 config_changes.txt
+.idea
+
+.idea/**
