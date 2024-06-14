@@ -750,6 +750,11 @@ hash = "613339d22dae4378d4be3f2e4156ee6209f688bec3dcf654f9d9b2a24f4c5544"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "bf5f9eac8e04cb4755d0879478722e5e8d041a43c92e7468f9589c23d424afc6"
+metafile = true
+
+[[files]]
 file = "mods/small-tetra-additions.pw.toml"
 hash = "80d27de45f32e7151dbd3ab65b472b92f2547fd56c947b03811f6ff7b6345bc8"
 metafile = true
