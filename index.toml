@@ -616,11 +616,6 @@ hash = "cca706c9aa0e52dce5194093214082779add0efa8e2e8ef119b5ab3232032449"
 metafile = true
 
 [[files]]
-file = "mods/medieval-origins-revival.pw.toml"
-hash = "c26e7640ff1c616132e5b1dfa54a35fd05cf786c83a7f5b858bf7ffa0d5cd67f"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
