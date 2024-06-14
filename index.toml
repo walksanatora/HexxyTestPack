@@ -483,7 +483,7 @@ hash = "fc100f14cb214372223ddb1752bab7f2b4735eb0a89199708856affbfb711e06"
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "e0d1c4ed4bf7d0780898275d012657df0b6da83a75ea3fadea177eafe0f3e297"
+hash = "349a8fe7baca601cc2f2bbc49ead434ce78ec2fa454055aeefb07b6880649e9f"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/max-health-fix.pw.toml"
-hash = "5a6ff9a8d01ac6c5374764935647c489d6188462de4abd7cf37513e3585b1916"
+hash = "cca706c9aa0e52dce5194093214082779add0efa8e2e8ef119b5ab3232032449"
 metafile = true
 
 [[files]]
