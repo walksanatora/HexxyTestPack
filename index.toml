@@ -616,6 +616,11 @@ hash = "cca706c9aa0e52dce5194093214082779add0efa8e2e8ef119b5ab3232032449"
 metafile = true
 
 [[files]]
+file = "mods/medieval-origins-revival.pw.toml"
+hash = "c26e7640ff1c616132e5b1dfa54a35fd05cf786c83a7f5b858bf7ffa0d5cd67f"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
@@ -662,6 +667,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "f6da8aa98e45998c1bff9b9fb0238da4aa27ce4a453dcf088e11859120723ef7"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "81d06b76e9cb7cb1e0c8f69724055a24ec75291c67d32a5740bd8bafd6ba7940"
 metafile = true
 
 [[files]]
@@ -712,6 +722,11 @@ metafile = true
 [[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "a025dddb33aaa8bd46888833c1e7099de509adef228666e5c4f2646a932e34a6"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "6ec658c91c5fe8b1a43efcacc7fc353596f3ec5c7d0bf49c9273738178a2ec25"
 metafile = true
 
 [[files]]
@@ -787,6 +802,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "8f558a6a66f8b7e4f194a1a3d9fc32ad143c1c18756e7c86534621edac752d8c"
+metafile = true
+
+[[files]]
+file = "mods/toomanyorigins.pw.toml"
+hash = "01aadb569539cd1b5f010ff312ca71ddaa562870de489ac3c1e2dc61c9c6311b"
 metafile = true
 
 [[files]]

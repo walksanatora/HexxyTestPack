@@ -1,0 +1,13 @@
+name = "TooManyOrigins"
+filename = "TooManyOrigins-1.1.2+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xDjN28OB/versions/oZ3KiavC/TooManyOrigins-1.1.2%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "b775328cdf423375a7b5d62c6f58df045c92d5ae"
+
+[update]
+[update.modrinth]
+mod-id = "xDjN28OB"
+version = "oZ3KiavC"
