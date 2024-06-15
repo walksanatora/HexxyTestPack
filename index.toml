@@ -774,6 +774,11 @@ hash = "634481528d6cc1cda29e8aa78a28a62264af89ef3f4c0d1f4aa02414b46d9051"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "f28e1481c14143758e65c2ae472f644793228ef91f5fbc041909b4c25c3525c0"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "49a899deaca716492cae844cdd03950d1969ae34d96cfd947a8ccf4f5489bd05"
 metafile = true
@@ -836,6 +841,11 @@ metafile = true
 [[files]]
 file = "mods/tetras-delight.pw.toml"
 hash = "9617a9613f597742d28c3178544d1c28a756d7e1c53d3afbe27ba18cf1c090fa"
+metafile = true
+
+[[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
 metafile = true
 
 [[files]]
