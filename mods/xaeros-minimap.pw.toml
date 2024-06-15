@@ -11,3 +11,8 @@ hash = "efd26080924cf77a8e0b9f440e09c470e3285e70"
 [update.modrinth]
 mod-id = "1bokaNcj"
 version = "zst4834Y"
+
+[option]
+optional=true
+default=true
+description="Shows nearby chunks and entities in the corner of your screen"
