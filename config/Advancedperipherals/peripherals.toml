@@ -7,7 +7,7 @@
 		enablePlayerDetector = true
 		#The max range of the player detector functions. If anyone use a higher range, the detector will use this max range. -1 for unlimited
 		#Range: > -1
-		playerDetMaxRange = 256
+		playerDetMaxRange = 1024
 		#Activates the "getPlayerPos" function of the Player Detector
 		enablePlayerPosFunction = true
 		#Adds more information to `getPlayerPos` of the Player Detector. Like rotation and dimension
