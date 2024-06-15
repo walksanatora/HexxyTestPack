@@ -362,11 +362,6 @@ hash = "121d77f60c9e379ab60af931abf5f0f27a29456d1e0a8a5773473dc7b2ea4a55"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "eaabc0d997071894cbc0bd7a93df34f4c5e2790e2f52e6ab49bd345e2ed703fb"
-metafile = true
-
-[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "1e9994eaab5bd69aaa82afcb47de64932f8d09bfa94d363c7b7ff4ddf8ebb5c7"
 metafile = true
