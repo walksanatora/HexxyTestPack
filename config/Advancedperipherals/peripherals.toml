@@ -18,7 +18,7 @@
 		enablePlayerPosRandomError = true
 		#The maximum amount of error (in blocks) that can be applied to each axis of the player's position.
 		#Range: > 0
-		playerPosRandomErrorAmount = 10000
+		playerPosRandomErrorAmount = 1000
 		#If random error is enabled: this is the maximum range at which an exact player position is returned, before random error starts to be applied.
 		#Range: > 0
 		playerPosPreciseMaxRange = 200

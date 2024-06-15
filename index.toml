@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Advancedperipherals/peripherals.toml"
-hash = "f04a0459c351eb8188aa79950d6802981edaebfa9faf9816bf7c5bf87e5335a9"
+hash = "29c3424aed9afb6a37cead83ba4c48a9b9c56a424cf65691ef7c3eb6abcf527f"
 
 [[files]]
 file = "config/ae2/common.json"
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "19fa105045a5a918e7ab4bc74ab58b6056f764856dd6f46ce95006e16cb41fd4"
+hash = "684af10753264ecd6ba81a866d7b3ed2727e6e5952a60c19f7609cdc1a5b4898"
 metafile = true
 
 [[files]]
