@@ -1,0 +1,13 @@
+name = "Chisel Reborn"
+filename = "chisel+forge+1.20.1-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4KWv7wbN/versions/kvgPyPiI/chisel%2Bforge%2B1.20.1-1.7.2.jar"
+hash-format = "sha1"
+hash = "907de49f534abc91f2f90a5920c271af6a9d9554"
+
+[update]
+[update.modrinth]
+mod-id = "4KWv7wbN"
+version = "kvgPyPiI"

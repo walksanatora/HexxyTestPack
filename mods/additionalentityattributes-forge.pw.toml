@@ -1,0 +1,13 @@
+name = "Additional Entity Attributes (Forge)"
+filename = "additionalentityattributes-forge-1.4.0.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EG6wWjkP/versions/nWdN6EtW/additionalentityattributes-forge-1.4.0.5%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "116732879016659f044270a30445b8ae836f2ac3"
+
+[update]
+[update.modrinth]
+mod-id = "EG6wWjkP"
+version = "nWdN6EtW"

@@ -1,0 +1,20 @@
+todo: collect more mobs to disallow from list
+Bloodmagic:Common
+setup well of suffering blacklist
+
+todo: balance numbers?
+curios:common:
+Consider adding additional slots due to the large number of mods we have, especially additional head slots.
+
+
+still considering:
+M&A:server:
+Set rtprange to the distance between boarders - mabey 2x gtp range?
+Consider turning down the percentage of tasks you need to complete to tier up, to make it a bit easier to do. - honestly it feels kinda fair as is imo
+
+railways:server
+Consider setting realistictrains to true, in order to make running a train a bit more interesting. Note that this could just be annoying, so do consider it.
+
+I do not see the config option: 
+Sophisticatedbackpacks:server
+Consider making backpacks with upgrades only work if worn, to make them more balanced.
