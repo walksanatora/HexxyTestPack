@@ -1,0 +1,18 @@
+name = "JourneyMap"
+filename = "journeymap-1.20.1-5.9.23-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/NuCCufCG/journeymap-1.20.1-5.9.23-forge.jar"
+hash-format = "sha1"
+hash = "774b2784cc66b8307d3bd0f387c43dbd9e5bec14"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "NuCCufCG"
+
+[option]
+optional=true
+default=false
+description="An alternative to xaero's worldmap/minimap"
