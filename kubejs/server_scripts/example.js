@@ -33,49 +33,49 @@ ServerEvents.recipes((event) => {
     },
   });
 
-  event.custom({
-    type: "bloodmagic:meteor",
-    input: {
-      tag: "forge:gems/certus_quartz",
-    },
-    syphon: 500000,
-    explosion: 24.0,
-    layers: [
-      {
-        radius: 1,
-        additionalWeight: 0,
-        minWeight: 0,
-        weightMap: {},
-        fill: "ae2:flawless_budding_quartz",
-        shell: "ae2:fluix_block",
-      },
-      {
-        radius: 3,
-        additionalWeight: 0,
-        minWeight: 0,
-        weightMap: [
-          {
-            tag: "ae2:fluix_block",
-            weight: 100,
-          },
-        ],
-        fill: "ae2:sky_stone_block",
-      },
-      {
-        radius: 8,
-        additionalWeight: 100,
-        minWeight: 0,
-        weightMap: [
-          {
-            tag: "ae2:quartz_block",
-            weight: 50,
-          },
-        ],
-        fill: "ae2:sky_stone_block",
-        shell: "ae2:sky_stone_block",
-      },
-    ],
-  });
+  // event.custom({
+  //   type: "bloodmagic:meteor",
+  //   input: {
+  //     tag: "forge:gems/certus_quartz",
+  //   },
+  //   syphon: 500000,
+  //   explosion: 24.0,
+  //   layers: [
+  //     {
+  //       radius: 1,
+  //       additionalWeight: 0,
+  //       minWeight: 0,
+  //       weightMap: {},
+  //       fill: "ae2:flawless_budding_quartz",
+  //       shell: "ae2:fluix_block",
+  //     },
+  //     {
+  //       radius: 3,
+  //       additionalWeight: 0,
+  //       minWeight: 0,
+  //       weightMap: [
+  //         {
+  //           tag: "ae2:fluix_block",
+  //           weight: 100,
+  //         },
+  //       ],
+  //       fill: "ae2:sky_stone_block",
+  //     },
+  //     {
+  //       radius: 8,
+  //       additionalWeight: 100,
+  //       minWeight: 0,
+  //       weightMap: [
+  //         {
+  //           tag: "ae2:quartz_block",
+  //           weight: 50,
+  //         },
+  //       ],
+  //       fill: "ae2:sky_stone_block",
+  //       shell: "ae2:sky_stone_block",
+  //     },
+  //   ],
+  // });
 
   console.log("Hello! The recipe event has fired!");
 });
