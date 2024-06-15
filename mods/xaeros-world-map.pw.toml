@@ -11,3 +11,8 @@ hash = "a7e0a8a5fc1e31bfff5fb733c51b361ffb1fb5da"
 [update.modrinth]
 mod-id = "NcUtCpym"
 version = "3t3qLyne"
+
+[option]
+optional=true
+default=true
+description="Automatically creates a map of the world as you go through it"

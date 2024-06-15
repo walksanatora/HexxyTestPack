@@ -1,0 +1,18 @@
+name = "JourneyMap Teams"
+filename = "JourneyMap-Teams-forge-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EV5wjtvP/versions/2wlmcdKq/JourneyMap-Teams-forge-1.20.1-1.1.0.jar"
+hash-format = "sha1"
+hash = "2cf932ced1459216fb4515f6401d1465ec0d2cf7"
+
+[update]
+[update.modrinth]
+mod-id = "EV5wjtvP"
+version = "2wlmcdKq"
+
+[option]
+optional=true
+default=false
+description="Adds journeymap integration to FTBteams"
