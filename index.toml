@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/peripherals.toml"
+hash = "23d5d78def61c38c6edd6cea945460edb1c0be79c88ea51965bad19032c2a5fd"
+
+[[files]]
 file = "config/ae2/common.json"
 hash = "9dbf063f897f45445a27bb5aa5dbf6d771f7f59599243e3eebe335f7ce41968d"
 
