@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "19fa105045a5a918e7ab4bc74ab58b6056f764856dd6f46ce95006e16cb41fd4"
+hash = "eaabc0d997071894cbc0bd7a93df34f4c5e2790e2f52e6ab49bd345e2ed703fb"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckoanimfix.pw.toml"
-hash = "e5d14f6ff5314299881dbb51db12ea3e0613440b734c935335b951e0d6b6564d"
+hash = "0e1bbdb13e0a36e730974f7922d13c14ceadd0b2f32e7e096a605930166e355b"
 metafile = true
 
 [[files]]
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "fe5aef6fdb17f75035a21bab5237af591aaf36c8a03b4b947d64507ce49c71be"
+hash = "38f27175b021934b61188aad974a0f531dc65e04dc423bf1fbf234d426bd4d17"
 metafile = true
 
 [[files]]
@@ -706,11 +706,6 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "1a2b195b0dac89efcdfbb5f0291e528f7ecf38a114092b60341403c5ee27e1fb"
-metafile = true
-
-[[files]]
-file = "mods/oculus-particle-fix.pw.toml"
-hash = "eeb2d37d13e9209da4934d76b9b55d4d90833565ae97d8871d4208a6a8eb2da5"
 metafile = true
 
 [[files]]
@@ -861,11 +856,6 @@ metafile = true
 [[files]]
 file = "mods/tetras-delight.pw.toml"
 hash = "9617a9613f597742d28c3178544d1c28a756d7e1c53d3afbe27ba18cf1c090fa"
-metafile = true
-
-[[files]]
-file = "mods/textrues-embeddium-options.pw.toml"
-hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
 metafile = true
 
 [[files]]
