@@ -4,6 +4,8 @@
 
 console.info("Hello, World! (Loaded server scripts)");
 ServerEvents.recipes((event) => {
+  event.remove({ output: 'alexscaves:quarry' })
+  event.remove({ output: 'alexscaves:quarry_smasher' })
   event.shaped(
     Item.of("minecraft:tnt", 1), // arg 1: output
     [
