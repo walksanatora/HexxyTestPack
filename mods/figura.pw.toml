@@ -11,3 +11,8 @@ hash = "9e72055d725cadaff98bbd21fca24ff149066a08"
 [update.modrinth]
 mod-id = "s9gIPDom"
 version = "8892Wqoi"
+
+[option]
+optional=true
+default=true
+description="Scriptable custom player models, if you are getting crashes disable this"
