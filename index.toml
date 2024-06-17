@@ -418,6 +418,11 @@ hash = "839615eb9f9bb0c4ef51a64724789676ed26818719b2ad19408e0f818c1e061d"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
+metafile = true
+
+[[files]]
 file = "mods/faster-ladder-climbing.pw.toml"
 hash = "0639428f4c47ca067f5265aa40c55e19fd9ad10337b9b00524b81789f247a9ff"
 metafile = true
