@@ -870,11 +870,6 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "7d5dba4cf4a48ae96d728377767c5cd1b3d743967255b987d272c6f884372463"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "f1337e322ed88d0bfaef22acaea1f1338fbe8808bdb0338767a2d024817b9972"
 metafile = true
