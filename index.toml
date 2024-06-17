@@ -113,15 +113,6 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
-file = "mods/Spectrum.jar"
-hash = "f5716f27a3c3301c1eb7428378d320c37126bd3aaf304fe8791165bdafabd427"
-
-[[files]]
-file = "mods/additionalentityattributes-forge.pw.toml"
-hash = "cfa39a9215da47d8d6290b687885bc625f8c7be412a9a5b66e8f285b93fa5afc"
-metafile = true
-
-[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "e83626b57fa2cba1199067ca67dbe4c136212d20468cdbb35b16ed9319a2da55"
 metafile = true
@@ -816,6 +807,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "4e3baf177daad87a455eeb90f1bea3a35fa1418d0c6140ced52196c24cf23442"
 metafile = true
 
 [[files]]
