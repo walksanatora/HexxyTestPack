@@ -348,6 +348,11 @@ hash = "e1338a797d78b49031800c1b3ecb1134b0ae27aaba8d3e4815c42db684c7b1ec"
 metafile = true
 
 [[files]]
+file = "mods/destroy.pw.toml"
+hash = "a5b0f85c1e1c585e2e38d2ab902340647b5d59ed83c0bf12f7d17e6d8f48d078"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true
