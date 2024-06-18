@@ -106,7 +106,7 @@ hash = "cf0f0ac7b97b55271a9e9d057eeb872c367932c2c3b96700831e985044ffa1ff"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "c3d3785224af365cb5983de4ada95db6111089c4c8ee310eb4664651c8649680"
+hash = "cca61a17bfc258a91865ec5933137511085592eded396af2a869cf9be93a80e6"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -196,6 +196,10 @@ metafile = true
 file = "mods/blockui.pw.toml"
 hash = "858d148713ff16c7a8f554b2b8e100fb04257da00c44757646a0dc0c8b3ae32f"
 metafile = true
+
+[[files]]
+file = "mods/bloodmagic-1.20.1-3.3.3-45.jar"
+hash = "9c2432a57d0cbe193d9295a62786d6d73a25ac3e7142057c1d9012bef16f1d62"
 
 [[files]]
 file = "mods/bluemap.pw.toml"
