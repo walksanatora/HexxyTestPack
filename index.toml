@@ -106,7 +106,7 @@ hash = "cf0f0ac7b97b55271a9e9d057eeb872c367932c2c3b96700831e985044ffa1ff"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "9cbf059b0db1a365663354df92d196da97b68b26b9bed84f907a4ae8d08cbbb7"
+hash = "c3d3785224af365cb5983de4ada95db6111089c4c8ee310eb4664651c8649680"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -345,11 +345,6 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "e1338a797d78b49031800c1b3ecb1134b0ae27aaba8d3e4815c42db684c7b1ec"
-metafile = true
-
-[[files]]
-file = "mods/destroy.pw.toml"
-hash = "a5b0f85c1e1c585e2e38d2ab902340647b5d59ed83c0bf12f7d17e6d8f48d078"
 metafile = true
 
 [[files]]

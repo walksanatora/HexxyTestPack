@@ -35,6 +35,23 @@ ServerEvents.recipes((event) => {
     },
   });
 
+  event.custom({
+  "type": "embers:stamping",
+  "fluid": {
+    "amount": 10,
+    "tag": "forge:molten_iron"
+  },
+  "input": {
+    "item": "minecraft:andesite"
+  },
+  "output": {
+    "item": "create:andesite_alloy"
+  },
+  "stamp": {
+    "item": "embers:ingot_stamp"
+  }
+})
+
   // event.custom({
   //   type: "bloodmagic:meteor",
   //   input: {
