@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "04e12ebae4c69d228a6feddb0815491b04beb881d430632363c43a04cb9798ec"
+hash = "f7471d5fdd8cfc74b84585ace479665e73e69a5e6bbe4d6c03e387e8ddcd3d45"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ hash = "9c2432a57d0cbe193d9295a62786d6d73a25ac3e7142057c1d9012bef16f1d62"
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "76c2b4eafe19aa4cc05eebbcdc81772502961ded240f21180250cd90eb2ba4c6"
+hash = "f7747565b6b9199e0c7e9a743dd8769965cbbee894a34bbfb14eae4b593da900"
 metafile = true
 
 [[files]]
@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/embers.pw.toml"
-hash = "d7809165175b935f5cacb7f62fccdbcf60770af7c47d25d8e6ccd8c078f197ff"
+hash = "bad1ed6c107d2c0f50ff73ea75a3a2607fff70883706daa037aac872dbf7cf8d"
 metafile = true
 
 [[files]]
@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "3e8e2a8e07dc49b294a001d3a0e5b80388437c4a8058b9ba0b308127f2f0010f"
+hash = "b0e9296837f6b0f657170b0ca5b00062557e5eb56711d174ed5f548d0ef5cdbb"
 metafile = true
 
 [[files]]
@@ -413,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/estrogen.pw.toml"
-hash = "51222582d954fb77194c9610d31e85f3068e41eec44a15a0f75137bfff8f5fde"
+hash = "6d7a97ebfa6e37762f34a5ce2452e602db83c7105efa6344b03a669b93966701"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "adb8a4df32e87b71c50ad245a2e0bf09e80fe9dd987241bbcfd82b4b90633e08"
+hash = "94e4884521c256740df7adbdaacb385a30262c0bc711e3af502dd42906a06f5d"
 metafile = true
 
 [[files]]
@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2e686659097dc340552ea752c6b1bd557909e2b252ea99fc57796dad3d0d2583"
+hash = "9042a09388c972d896bb06f5f57d7cec0e1d235332bd28cdc4918095404d4c00"
 metafile = true
 
 [[files]]
@@ -779,11 +779,6 @@ hash = "6ec658c91c5fe8b1a43efcacc7fc353596f3ec5c7d0bf49c9273738178a2ec25"
 metafile = true
 
 [[files]]
-file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
-hash = "39450e722942d9963e41b156fd364cc1f987ae0839cdedaa82d4e8cba18d8a31"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c554748f4958ae814eb09a8eb201fb19cd605cc91088d96385257bf6c883895d"
 metafile = true
@@ -815,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bf5f9eac8e04cb4755d0879478722e5e8d041a43c92e7468f9589c23d424afc6"
+hash = "c47911e9120563e98fac92a3c7ef77d473cc28ea7bd4d4d2fb74817f529b231a"
 metafile = true
 
 [[files]]
