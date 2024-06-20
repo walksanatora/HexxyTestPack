@@ -540,11 +540,6 @@ hash = "72f91ea57825c9fdfd4cf7b68fec9cd8f6734b64dde0f30d3a5204e46582c09a"
 metafile = true
 
 [[files]]
-file = "mods/integrated-rest.pw.toml"
-hash = "97a197a753105d24363d1d6454f58a182e6e217dff6d5b9e2d10f94d324f5f00"
-metafile = true
-
-[[files]]
 file = "mods/integrated-scripting.pw.toml"
 hash = "64580cfe38e3a84a8896c516097abb7a7ad0724c466039b9ec35f9cb56555b77"
 metafile = true
