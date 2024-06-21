@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "da2259b18aa5a4b1aa16cdc181b3c2c75bfe0dcaa169bf98e34e62997e46bd9f"
+hash = "cc1d4d988257fe6db0f6cd7a16a8da0f8cf37da8649d4bd6bd0096cf62043c92"
 metafile = true
 
 [[files]]
@@ -288,12 +288,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "65879bdbfabde6902e5ba375d9f844000b19c95ec22b4da4cb95a675b27d533c"
+hash = "42821bd9e59159918f7c370381c7e8e748efeb74da0102aa90ee28db45610377"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "96a8cf1770ddf7b31e960c86118eb531eb3c2d25258aa3dd34cbd929e98ec08a"
+hash = "407b2ab9daad2f4c5d9931bcb11703ad792ebd2f6b35e056f7a4d7cef425231a"
 metafile = true
 
 [[files]]
@@ -616,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "c0f7fea697c69a37393253ce83df26639b6e84c64874d470502869a6b5eaccde"
+hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
 metafile = true
 
 [[files]]
@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9042a09388c972d896bb06f5f57d7cec0e1d235332bd28cdc4918095404d4c00"
+hash = "dbcb87c76bd4e21f3b5dc155c3ddc4cd5bab670e34703f5e8b378f84fcaddc1f"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "9a4a91161fe07c1d6ddbaf4e304572d7c5157ebc51ff16badc338a0bab92d2bb"
+hash = "a1588f69ce9993b5b55f46105958e32fd55b9430ab92ab0e2d9c0112bb0aa69d"
 metafile = true
 
 [[files]]
