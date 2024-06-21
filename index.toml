@@ -106,20 +106,11 @@ hash = "cf0f0ac7b97b55271a9e9d057eeb872c367932c2c3b96700831e985044ffa1ff"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "9cbf059b0db1a365663354df92d196da97b68b26b9bed84f907a4ae8d08cbbb7"
+hash = "cca61a17bfc258a91865ec5933137511085592eded396af2a869cf9be93a80e6"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
-
-[[files]]
-file = "mods/Spectrum.jar"
-hash = "f5716f27a3c3301c1eb7428378d320c37126bd3aaf304fe8791165bdafabd427"
-
-[[files]]
-file = "mods/additionalentityattributes-forge.pw.toml"
-hash = "cfa39a9215da47d8d6290b687885bc625f8c7be412a9a5b66e8f285b93fa5afc"
-metafile = true
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -128,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "04e12ebae4c69d228a6feddb0815491b04beb881d430632363c43a04cb9798ec"
+hash = "f7471d5fdd8cfc74b84585ace479665e73e69a5e6bbe4d6c03e387e8ddcd3d45"
 metafile = true
 
 [[files]]
@@ -207,8 +198,12 @@ hash = "858d148713ff16c7a8f554b2b8e100fb04257da00c44757646a0dc0c8b3ae32f"
 metafile = true
 
 [[files]]
+file = "mods/bloodmagic-1.20.1-3.3.3-45.jar"
+hash = "9c2432a57d0cbe193d9295a62786d6d73a25ac3e7142057c1d9012bef16f1d62"
+
+[[files]]
 file = "mods/bluemap.pw.toml"
-hash = "76c2b4eafe19aa4cc05eebbcdc81772502961ded240f21180250cd90eb2ba4c6"
+hash = "f7747565b6b9199e0c7e9a743dd8769965cbbee894a34bbfb14eae4b593da900"
 metafile = true
 
 [[files]]
@@ -378,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/embers.pw.toml"
-hash = "d7809165175b935f5cacb7f62fccdbcf60770af7c47d25d8e6ccd8c078f197ff"
+hash = "bad1ed6c107d2c0f50ff73ea75a3a2607fff70883706daa037aac872dbf7cf8d"
 metafile = true
 
 [[files]]
@@ -388,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "50cccc98a2eabd7abf8d7b0fbb506bbf408a04c40aba21370e6d30053cb0d9bd"
+hash = "b0e9296837f6b0f657170b0ca5b00062557e5eb56711d174ed5f548d0ef5cdbb"
 metafile = true
 
 [[files]]
@@ -418,12 +413,17 @@ metafile = true
 
 [[files]]
 file = "mods/estrogen.pw.toml"
-hash = "51222582d954fb77194c9610d31e85f3068e41eec44a15a0f75137bfff8f5fde"
+hash = "6d7a97ebfa6e37762f34a5ce2452e602db83c7105efa6344b03a669b93966701"
 metafile = true
 
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "839615eb9f9bb0c4ef51a64724789676ed26818719b2ad19408e0f818c1e061d"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
 metafile = true
 
 [[files]]
@@ -650,6 +650,11 @@ hash = "cca706c9aa0e52dce5194093214082779add0efa8e2e8ef119b5ab3232032449"
 metafile = true
 
 [[files]]
+file = "mods/mclogs.pw.toml"
+hash = "142582e95d46cdaf04de1389442c25101d629f7b01683d7cea46bdac9606c0b4"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
@@ -676,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2e686659097dc340552ea752c6b1bd557909e2b252ea99fc57796dad3d0d2583"
+hash = "9042a09388c972d896bb06f5f57d7cec0e1d235332bd28cdc4918095404d4c00"
 metafile = true
 
 [[files]]
@@ -739,6 +744,16 @@ hash = "e3c0dd357ffe41d5e344e4d56c0dcf11bc6187336d74ca4158c3e9bbae6bf654"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "00322f0c2a1ed0b9e28f823b3c7f5b40d3ede06db32f3d4aa4d1391a994c306a"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "d2131f406e8030c38d79aa38d62c2484afb9b2303f5c9d950597fd9d50e2c441"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "606194e572cd05573e9ac9978a2321efe31a1f90d24f8b42daac41734c307626"
 metafile = true
@@ -761,11 +776,6 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "6ec658c91c5fe8b1a43efcacc7fc353596f3ec5c7d0bf49c9273738178a2ec25"
-metafile = true
-
-[[files]]
-file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
-hash = "39450e722942d9963e41b156fd364cc1f987ae0839cdedaa82d4e8cba18d8a31"
 metafile = true
 
 [[files]]
@@ -800,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bf5f9eac8e04cb4755d0879478722e5e8d041a43c92e7468f9589c23d424afc6"
+hash = "c47911e9120563e98fac92a3c7ef77d473cc28ea7bd4d4d2fb74817f529b231a"
 metafile = true
 
 [[files]]
@@ -816,6 +826,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "4e3baf177daad87a455eeb90f1bea3a35fa1418d0c6140ced52196c24cf23442"
 metafile = true
 
 [[files]]
@@ -866,11 +881,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
-metafile = true
-
-[[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "7d5dba4cf4a48ae96d728377767c5cd1b3d743967255b987d272c6f884372463"
 metafile = true
 
 [[files]]
