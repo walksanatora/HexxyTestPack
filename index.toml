@@ -178,6 +178,11 @@ hash = "5b73728cb17bf6fbcfcf2740e75255f766b69c964ea57a070e7c580d490d221f"
 metafile = true
 
 [[files]]
+file = "mods/ars-scalaes.pw.toml"
+hash = "d1c5f8434731cf96282ab7d53b9a60f6aeeeec745dbe4e69425dfbce16f6d8ad"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "0700d17f36cd6b256bc65d30c79068d2627faacc7d6a601140445740c8960743"
 metafile = true
