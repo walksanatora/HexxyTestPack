@@ -829,6 +829,10 @@ hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
 metafile = true
 
 [[files]]
+file = "mods/spectral-sync-1.0.0.jar"
+hash = "042b934f18344b4a07d00aef3673e3d68eb4008b79ff9ba4ef73a62572c90723"
+
+[[files]]
 file = "mods/spectrum.pw.toml"
 hash = "4e3baf177daad87a455eeb90f1bea3a35fa1418d0c6140ced52196c24cf23442"
 metafile = true
