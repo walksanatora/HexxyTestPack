@@ -830,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-sync-1.0.0.jar"
-hash = "042b934f18344b4a07d00aef3673e3d68eb4008b79ff9ba4ef73a62572c90723"
+hash = "2342fb6e358924be4f13b310eddefb4e80c62c8e3c3edf4c99dbe191bd931d69"
 
 [[files]]
 file = "mods/spectrum.pw.toml"
@@ -956,3 +956,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "03ad095aeaf39ddf0fd19cb25ea72a6aad6e89510b6e643bdcf39091d6a2691f"
 metafile = true
+
+[[files]]
+file = "spectral-sync-1.0.0.jar"
+hash = "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3"
