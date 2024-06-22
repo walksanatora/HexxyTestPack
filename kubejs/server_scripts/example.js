@@ -96,6 +96,51 @@ ServerEvents.recipes((event) => {
     ],
   });
 
+  event.custom({
+    type: "ars_nouveau:budding_conversion",
+    id: "ars_nouveau:budding_amethyst",
+    input: "ae2:quartz_block",
+    result: "ae2:damaged_budding_block"
+  });
+  event.custom({
+    type: "ars_nouveau:budding_conversion",
+    id: "ars_nouveau:budding_amethyst",
+    input: "ae2:damaged_budding_block",
+    result: "ae2:chipped_budding_block"
+  });
+  event.custom({
+    type: "ars_nouveau:budding_conversion",
+    id: "ars_nouveau:budding_amethyst",
+    input: "ae2:chipped_budding_block",
+    result: "ae2:flawed_budding_block"
+  });
+  event.custom({
+    type: "ars_nouveau:budding_conversion",
+    id: "ars_nouveau:budding_amethyst",
+    input: "ae2:flawed_budding_block",
+    result: "ae2:flawless_budding_block"
+  });
+
+  event.custom({
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "quark:diamond_heart",
+      },
+      {
+        "amount": 250,
+        "fluid": "minecraft:lava",
+        "nbt": {}
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      }
+    ]
+  })
+
   console.log("Hello! The recipe event has fired!");
 });
 
