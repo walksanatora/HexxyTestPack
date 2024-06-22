@@ -154,6 +154,15 @@ ServerEvents.tags("block", (event) => {
   event.add("ars_nouveau:golem/cluster", ["ae2:quartz_cluster"]);
 });
 
+ServerEvents.tags("entity_types", (event) => {
+  event.add("pneumaticcraft:vacuum_trap_blacklisted", [
+    "quark:stoneling",
+  ]);
+  event.add("spectrum:spawner_manipulation_blacklisted", [
+    "quark:stoneling",
+  ]);
+});
+
 ServerEvents.tags("item", (event) => {
   event.add("ars_nouveau:golem/shard", ["ae2:certus_quartz_crystal"]);
   event.add("ars_nouveau:golem/shard", ["hexcasting:amethyst_dust","hexcasting:charged_amethyst"]);
