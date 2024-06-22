@@ -106,7 +106,7 @@ hash = "cf0f0ac7b97b55271a9e9d057eeb872c367932c2c3b96700831e985044ffa1ff"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "cca61a17bfc258a91865ec5933137511085592eded396af2a869cf9be93a80e6"
+hash = "775632a4df9d03311de49f25f992de40496f22a452b267d1eb0bea620ce61a89"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "80ed7363acea418d52320ffda582064c8a7723713e8809ee63843fcbda76d6b1"
+hash = "344131aa182a6b8bc09544cf59ce7a1390946a3aa6fbdbba8b40cc7a50d93c1c"
 metafile = true
 
 [[files]]

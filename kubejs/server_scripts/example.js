@@ -98,3 +98,39 @@ ServerEvents.recipes((event) => {
 
   console.log("Hello! The recipe event has fired!");
 });
+
+ServerEvents.tags("block", (event) => {
+  event.add("ars_nouveau:golem/budding", [
+    "ae2:damaged_budding_quartz",
+    "ae2:chipped_budding_quartz",
+    "ae2:flawed_budding_quartz",
+    "ae2:flawless_budding_quartz",
+  ]);
+  event.add("ars_nouveau:golem/cluster", ["ae2:quartz_cluster"]);
+});
+
+ServerEvents.tags("item", (event) => {
+  event.add("ars_nouveau:golem/shard", ["ae2:certus_quartz_crystal"]);
+  event.add("ars_nouveau:golem/shard", ["hexcasting:amethyst_dust","hexcasting:charged_amethyst"]);
+});
+
+const spawns = [
+  ["#minecraft:is_overworld", "wilden_hunter"],
+  ["#minecraft:is_overworld", "wilden_stalker"],
+  ["#forge:is_cold/overworld", "wilden_guardian"],
+];
+
+ServerEvents.highPriorityData((event) => {
+  spawns.forEach(([biomes, wilden]) => {
+    event.addJson(`ars_nouveau:forge/biome_modifier/${wilden}_spawn`, {
+      type: "forge:add_spawns",
+      biomes: biomes,
+      spawners: {
+        type: `ars_nouveau:${wilden}`,
+        maxCount: 1,
+        minCount: 1,
+        weight: 50,
+      },
+    });
+  });
+});
