@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "8a3d4384a06450ae2f37e4f3155fd84623de180ed6ce27050a7fa5c9ffd355ee"
+hash = "d8b87b28181b50caf752fa5b3abcfbbd65dc40db0797c923c2206bbdb59aff29"
 metafile = true
 
 [[files]]
