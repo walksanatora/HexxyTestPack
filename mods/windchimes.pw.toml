@@ -1,0 +1,7 @@
+name = "Windchimes"
+filename = "windchimes-1.2.1a.jar"
+
+[download]
+url = "https://github.com/HexxyCraft/Windchimes/releases/download/v1.2.1a/windchimes-1.2.1a.jar"
+hash-format = "sha1"
+hash = "70d35e491698419eb314d1f387f5cf8fd6924902"

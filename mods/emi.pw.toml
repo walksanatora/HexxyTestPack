@@ -1,13 +1,18 @@
 name = "EMI"
-filename = "emi-1.1.7+1.20.1+forge.jar"
+filename = "emi-1.1.7+1.19.2+fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/QT6oPqYH/emi-1.1.7%2B1.20.1%2Bforge.jar"
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/5qgRXRYj/emi-1.1.7%2B1.19.2%2Bfabric.jar"
 hash-format = "sha1"
-hash = "324214c511d487a87a102a426d3f50027ee22c64"
+hash = "bd548700e154bc79305347050ff0151da5c78e9a"
 
 [update]
 [update.modrinth]
 mod-id = "fRiHVvU7"
-version = "QT6oPqYH"
+version = "5qgRXRYj"
+
+[option]
+optional = true
+description = "JEI-like item and recipe viewer. If you disable this (eg. to use REI instead), also disable EMICompat and EMI Trades."
+default = true

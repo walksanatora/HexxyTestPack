@@ -1,13 +1,17 @@
-name = "Hexxy Test Pack"
-author = "walksanator"
-version = "2.0.0"
+name = "HexxyCraft"
+author = "HexxyCraft Team"
+version = "1.1.14"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "02d10fea178be20906308d36e51552bf63b0ca55358a309c72426dca22294350"
+hash = "1745e997b65d0d1e28aa586ba6fc7faef3f3ac62ca1e11315d02cc31f4b0db26"
 
 [versions]
-forge = "47.2.32"
-minecraft = "1.20.1"
+minecraft = "1.19.2"
+quilt = "0.26.0"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]
+datapack-folder = "resources"
