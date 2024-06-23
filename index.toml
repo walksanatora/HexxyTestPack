@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl-core.pw.toml"
-hash = "9744be5a1bdcb951ae96593c2c33ce99f05795f5535a7e5e165ac812b2dda6cd"
+hash = "a9d50a0a7ffac8136e766f3e9ac0f183de00acbbbab5df383dd45afaa91f8b6d"
 metafile = true
 
 [[files]]

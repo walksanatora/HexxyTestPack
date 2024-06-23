@@ -3,6 +3,6 @@ filename = "core-2.0.2+kt.1.8.20+flk.1.9.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/weDX41J0/core-2.0.2%2Bkt.1.8.20%2Bflk.1.9.3.jar"
+url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/iFjjxcEj/quilt-kotlin-libraries-core-2.1.1%2Bkt.1.9.0%2Bflk.1.9.6.jar"
 hash-format = "sha1"
-hash = "2f9a49b5ceeca49c04d13fed5d4bc62277c00599"
+hash = "64ddd2cb9de54f78f457192992995bb2ccf8cfee"
