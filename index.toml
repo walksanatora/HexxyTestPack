@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "6ea46e5919a275269144753e4c8805a8d94f69c50dda4ad924efeb122cb967e8"
+
+[[files]]
+file = "README.md"
+hash = "064daacb1b040eaaa56bb9876ca179979c853a14518c2c0cbcf101e911f44a6d"
+
+[[files]]
 file = "config/botania-common.json5"
 hash = "3a256cdaf82f28fa55a61515d1bd9792fe81a251876dd5ad7b3998705f1bf2c2"
 
@@ -488,6 +496,21 @@ hash = "554123d68650fd1ce5345138b50282f45efa55698801361fbeb4d798eb543431"
 metafile = true
 
 [[files]]
+file = "mods/hex-circus.pw.toml"
+hash = "aaa65ea4b53fc345a432685b57f59d28a29a3e945566f174df5e67d93a3a135d"
+metafile = true
+
+[[files]]
+file = "mods/hex-research.pw.toml"
+hash = "114d2b5056f7d6a7240ea048ed565872335ac443b0a0a8e1ca0b14d42aa01947"
+metafile = true
+
+[[files]]
+file = "mods/hex-ways.pw.toml"
+hash = "9301f58a828525eb79276b407693ddc1535d6001754d04c5a2ddcf86a1cb96ff"
+metafile = true
+
+[[files]]
 file = "mods/hexal.pw.toml"
 hash = "5097014f7de56317278be09cb37559f172d60292ba9bd6cef0727057df9c9a44"
 metafile = true
@@ -498,13 +521,38 @@ hash = "afdcf02d5f6720324601d805bef79370751a7206b1a71d5f0841dcb656bdc4a4"
 metafile = true
 
 [[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "3c24c6e494e624b29b18092fc55661cbb5aa03c3f7b4208ac6215e50d0ea58ff"
+metafile = true
+
+[[files]]
 file = "mods/hexgloop.pw.toml"
 hash = "be9c931d7ef0d9adfdcc367976d2c6afb58a4e4bbb3dee0fe9d0c131cf076765"
 metafile = true
 
 [[files]]
+file = "mods/hexical.pw.toml"
+hash = "c6e6e17840fcf13a5422cc569304e744deef8b56dcc48707f3577fabfd3c27f9"
+metafile = true
+
+[[files]]
+file = "mods/hexkeys.pw.toml"
+hash = "a7182aabf22c79f19287acd277c66e5f5fe94df244e1d05f30aa102074a49eda"
+metafile = true
+
+[[files]]
 file = "mods/hexkinetics.pw.toml"
 hash = "8a88c7169f5fd3231d3ff329aeb1c88e9befe3051887f8c7fbd09c6bd4530f53"
+metafile = true
+
+[[files]]
+file = "mods/hexlink.pw.toml"
+hash = "41aa0306665000c5ebb6524d044e93b73879de5b0a32922e684fc19b36a67812"
+metafile = true
+
+[[files]]
+file = "mods/hextended-staves.pw.toml"
+hash = "3ad8cdda38ecf39f0add9e30d9a3f810e5253ec44e14a66ffd1cb303839269b4"
 metafile = true
 
 [[files]]
@@ -520,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/idwtialsimmoedm.pw.toml"
 hash = "8c8d082d81b4f5982134b2132870ab691c6607fe53051ed1a3989f768f5036f6"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "b508713a412a72a4cb5567fb2f88b16bcfb8fe2904c9bf238863e9dfd7f03101"
 metafile = true
 
 [[files]]
@@ -685,6 +738,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "29b48dbd9c9d9cea571dbe4d6f9370759a49d5a8810eeeb0e0d61defd58c5a14"
+metafile = true
+
+[[files]]
+file = "mods/oneironaut.pw.toml"
+hash = "c19357c9348c2b3d47026f7c3a17a4419e6ab46e4fa602420345924eda4f3202"
 metafile = true
 
 [[files]]
@@ -965,6 +1023,38 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "0a23b06d3673219a3298750002697012216551376af8e8f79a35b97b8bfe6ac3"
 metafile = true
+
+[[files]]
+file = "multimc/dev/.minecraft/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "multimc/dev/hexxycraft_dev.png"
+hash = "97b661b5edb2664a0f9d4f5ffa28a38bfe957704d52d8bc94f107c1a814d73d3"
+
+[[files]]
+file = "multimc/dev/instance.cfg"
+hash = "9b235a2c7d98ea15bc9d8f6e3e0e0c737864aa09e502252be0dbba3b28e85a82"
+
+[[files]]
+file = "multimc/dev/mmc-pack.json"
+hash = "64352ec481efa272c3000006f26c50d831a38cd5adcda98b4df005e81873ca02"
+
+[[files]]
+file = "multimc/master/.minecraft/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "multimc/master/hexxycraft.png"
+hash = "310368972db507e11f92f1b60f8f9d7b6b748729c06cacb962c2370343fbc926"
+
+[[files]]
+file = "multimc/master/instance.cfg"
+hash = "f1da79c9274d6d1683259cdd3be90850ad57315ba8aaeef83f0f6d57e225c9ad"
+
+[[files]]
+file = "multimc/master/mmc-pack.json"
+hash = "64352ec481efa272c3000006f26c50d831a38cd5adcda98b4df005e81873ca02"
 
 [[files]]
 file = "resources/assets/trinkets/lang/en_au.json"
