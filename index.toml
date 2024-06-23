@@ -905,11 +905,6 @@ hash = "805618a13f8bd42633fca47204d2c289db33c998e66ff39dd42b75ef21a171d9"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "ae12f537e21b844342a46551a0ba148ebb186ee79cd982a9ba544c489211d4c4"
-metafile = true
-
-[[files]]
 file = "mods/spark-1.10.39-fabric.jar"
 hash = "c470595075ca42fc927aabc9411f8adebf0004b7177b3e1f8081032607186ade"
 
