@@ -1,12 +1,36 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "6ea46e5919a275269144753e4c8805a8d94f69c50dda4ad924efeb122cb967e8"
+file = ".idea/HexxyTestPack.iml"
+hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
 
 [[files]]
-file = "README.md"
-hash = "064daacb1b040eaaa56bb9876ca179979c853a14518c2c0cbcf101e911f44a6d"
+file = ".idea/codeStyles/Project.xml"
+hash = "99023cd231a20f51b11fe16eed55a5000aaaa111aa8cfb574d22e1034fe0d7dd"
+
+[[files]]
+file = ".idea/codeStyles/codeStyleConfig.xml"
+hash = "643f8c6d59b730b5b1cafc4ad85300efe30250f2cf34753625f714dc65484172"
+
+[[files]]
+file = ".idea/libraries/mods.xml"
+hash = "cb7431120b4df8229c925ad3ce59dbb65f21e276379e2146dd48a936055cfe20"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "e21bfae2d007aa04a518cbd06bee69ffe072ffc1ccaf9e0bbd60380b776412dc"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "49fd629102899c50e4c995276b877e488520fc9dcad9ee7f68000a0492879aae"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "741d104d48c4d21f19f3f53b384d4a38b61f86bc4df234a7ef42248167e2824c"
 
 [[files]]
 file = "config/botania-common.json5"
@@ -1023,38 +1047,6 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "0a23b06d3673219a3298750002697012216551376af8e8f79a35b97b8bfe6ac3"
 metafile = true
-
-[[files]]
-file = "multimc/dev/.minecraft/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "multimc/dev/hexxycraft_dev.png"
-hash = "97b661b5edb2664a0f9d4f5ffa28a38bfe957704d52d8bc94f107c1a814d73d3"
-
-[[files]]
-file = "multimc/dev/instance.cfg"
-hash = "61609a57405c2cc085a82b466323eee989cfc259fb3f1424fdd5eb58010f997c"
-
-[[files]]
-file = "multimc/dev/mmc-pack.json"
-hash = "64352ec481efa272c3000006f26c50d831a38cd5adcda98b4df005e81873ca02"
-
-[[files]]
-file = "multimc/master/.minecraft/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "multimc/master/hexxycraft.png"
-hash = "310368972db507e11f92f1b60f8f9d7b6b748729c06cacb962c2370343fbc926"
-
-[[files]]
-file = "multimc/master/instance.cfg"
-hash = "f1da79c9274d6d1683259cdd3be90850ad57315ba8aaeef83f0f6d57e225c9ad"
-
-[[files]]
-file = "multimc/master/mmc-pack.json"
-hash = "64352ec481efa272c3000006f26c50d831a38cd5adcda98b4df005e81873ca02"
 
 [[files]]
 file = "resources/assets/trinkets/lang/en_au.json"

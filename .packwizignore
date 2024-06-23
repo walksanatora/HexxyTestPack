@@ -1,11 +1,8 @@
-*.mrpack
+README.md
+LICENSE
 .github/
-bc23/
+.vscode/
+/get/
+/packwiz/
 .githooks/
-.testserver/
-dump.py
-readme.md
-config_changes.txt
-.idea
-
-.idea/**
+/multimc/
