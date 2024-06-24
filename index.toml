@@ -163,11 +163,6 @@ hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
-file = "mods/armorpoints.pw.toml"
-hash = "62e96f47206890a3578466cd65665b15dc2d55d5d56ab9dfbdf5f0f96487f407"
-metafile = true
-
-[[files]]
 file = "mods/armourers-workshop.pw.toml"
 hash = "82f388892d83fe2c3c0a4dc1eecf84c4e72544286d1fb51c52849999defcd42d"
 metafile = true
@@ -573,11 +568,6 @@ hash = "743f7771e9a61a88321c8212b654e943fb29fbe28eb9288677432535083de56f"
 metafile = true
 
 [[files]]
-file = "mods/gravity-api.pw.toml"
-hash = "96936089f965ded979c8caaec787969f931ec27bf1b156357953933560fb916f"
-metafile = true
-
-[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "554123d68650fd1ce5345138b50282f45efa55698801361fbeb4d798eb543431"
 metafile = true
@@ -640,6 +630,11 @@ metafile = true
 [[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "f8989baf7649dd44d8db505a36ab57536663471d003def1afe510a8d9dacc8a9"
+metafile = true
+
+[[files]]
+file = "mods/hexvr.pw.toml"
+hash = "6d11dbaa237954e80eed69fb04fe19eafa8e8c3083ea6f3a34b35dcb96b0a7cd"
 metafile = true
 
 [[files]]
@@ -977,11 +972,6 @@ hash = "ac31d05e5d2c1694d953820ff05fe7cfc1d91450e66430bc8904dd61a082de5a"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "a3e8684d38093b7bf93f095d81abbe93b5764d109bdd0b7817c7b9285a1b9c58"
-metafile = true
-
-[[files]]
 file = "mods/recipe-cache.pw.toml"
 hash = "9a3ae5c72bc925fb64391a62bef32f2d585d40a52481dfa132e838e0cffadcd2"
 metafile = true
@@ -997,18 +987,8 @@ hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
 
 [[files]]
-file = "mods/requiem.pw.toml"
-hash = "f3ee2ed045aadd9b00942c517d5b0fbddacee0bccf1a9cadfd03841e043ad155"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "cec354ea24b2219ce867dd9bd51e819a8b619bf480f7468add1e524c5b363273"
-metafile = true
-
-[[files]]
-file = "mods/retraining.pw.toml"
-hash = "8b1615d68a1964d0234bb6bcebea540d67b1b0522a377d93487d58121241a163"
 metafile = true
 
 [[files]]
@@ -1178,6 +1158,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "f0e01ada541700a959b3ec6a9aed856d3d52ab2309f0ba71d42ad77f490b4edf"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "4a53f566ad6803adc2226bc1cdce2cdb6aabdd6c6a1397af8d818115fb7fa22e"
 metafile = true
 
 [[files]]
