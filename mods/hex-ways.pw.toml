@@ -1,13 +1,13 @@
 name = "Hex Ways"
-filename = "portalhexaddon-Fabric-1.19.2-0.5.3.jar"
+filename = "portalhexaddon-Fabric-1.19.2-6.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YHdZ4gTh/versions/HPVRYQMV/portalhexaddon-Fabric-1.19.2-0.5.3.jar"
+url = "https://cdn.modrinth.com/data/YHdZ4gTh/versions/yKkn0Kth/portalhexaddon-Fabric-1.19.2-6.0.jar"
 hash-format = "sha1"
-hash = "1b85c57b213acee7814f87b917129fda8d1d9a41"
+hash = "47a03a7036a23b114b8221b7f38d4049161ec936"
 
 [update]
 [update.modrinth]
 mod-id = "YHdZ4gTh"
-version = "HPVRYQMV"
+version = "yKkn0Kth"

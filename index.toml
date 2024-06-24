@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-ways.pw.toml"
-hash = "9301f58a828525eb79276b407693ddc1535d6001754d04c5a2ddcf86a1cb96ff"
+hash = "d90772aa2851b9cd51e1b34350de0825c2db7cebedcc4cea26814957cb41572d"
 metafile = true
 
 [[files]]
