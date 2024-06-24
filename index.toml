@@ -168,6 +168,11 @@ hash = "62e96f47206890a3578466cd65665b15dc2d55d5d56ab9dfbdf5f0f96487f407"
 metafile = true
 
 [[files]]
+file = "mods/armourers-workshop.pw.toml"
+hash = "82f388892d83fe2c3c0a4dc1eecf84c4e72544286d1fb51c52849999defcd42d"
+metafile = true
+
+[[files]]
 file = "mods/artifacts-fabric.pw.toml"
 hash = "fc341fd6b62ac129f6d6fc6f5cd0102355b911f033238360d4f052050c597d95"
 metafile = true
@@ -475,6 +480,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "2784d741c432a2cf16ba7bd11a75244cd75b30b5113d9def8c82784a58c28405"
 metafile = true
 
 [[files]]
