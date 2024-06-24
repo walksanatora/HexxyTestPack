@@ -1,0 +1,13 @@
+name = "RAT's Mischief"
+filename = "ratsmischief-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jjc1149h/versions/fKAvwKdl/ratsmischief-2.0.1.jar"
+hash-format = "sha1"
+hash = "15411ce2e7d6e3555de90d07e388f52dba08512b"
+
+[update]
+[update.modrinth]
+mod-id = "Jjc1149h"
+version = "fKAvwKdl"
