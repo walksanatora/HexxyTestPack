@@ -423,11 +423,6 @@ hash = "d8a51586ed3c982870bce4d9876a550ac188ebc2263e3acc368605978df608c2"
 metafile = true
 
 [[files]]
-file = "mods/dustrial-decor.pw.toml"
-hash = "321d91a48c60079500f68ab2741d955f5dedab4d36c904ad8f2c21dc4531682e"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "3735f81e3e53beb793e65593e01fefb836977e2e8d52f846103c8afbd5c09042"
 metafile = true
@@ -1102,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "333ea35aa856b92ae101d8177f7b7a899ed19936a2b36a704a581c59723ff50f"
+hash = "1d22f7b054f7596f7f2793a6ebf795ac950308f40a462ae7349ddad03bd7a352"
 metafile = true
 
 [[files]]
