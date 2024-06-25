@@ -624,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextended-staves.pw.toml"
-hash = "3ad8cdda38ecf39f0add9e30d9a3f810e5253ec44e14a66ffd1cb303839269b4"
+hash = "17ef031d4fdf9dd0b53c8834835c7921ed6e2e808d775af72f2406bc2c307ebc"
 metafile = true
 
 [[files]]
